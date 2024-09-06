@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: T4UB73gL05jxG6KYxSANAA
-! Version: 202409031551
+! Checksum: FmOYmzwkIwPXuNFO+tgLmA
+! Version: 202409060801
 ! Title: EasyPrivacy
-! Last modified: 03 Sep 2024 15:51 UTC
+! Last modified: 06 Sep 2024 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5055,7 +5055,6 @@ omni.soundestlink.com$image
 ||perljs.com^$third-party
 ||permutive.com^$third-party
 ||personyze.com^$third-party
-||petametrics.com^$third-party
 ||pghub.io^$third-party
 ||pgs.io^$third-party,domain=~publicgood.com
 ||phonalytics.com^$third-party
@@ -7598,6 +7597,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beam.mjhlifesciences.com^
 ||beamanalytics.b-cdn.net^
 ||bee.tc.easebar.com^
+||bendingspoonsapps.com/v4/web-events
 ||bento.agoda.com^
 ||bet365.de/Members/*&affiliate=$subdocument,third-party
 ||betano.de^*?btag=$subdocument,third-party
@@ -8812,6 +8812,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||performgroup.com/metrics/
 ||perr.h-cdn.com^
 ||perso.aws.arc.pub^
+||petametrics.com^$domain=meidastouch.com
+||petametrics.com^$image,third-party,xmlhttprequest
 ||pets.channeladvisor.com^
 ||photobox.com/event
 ||photobox.com/logs
@@ -8941,6 +8943,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||quantcast.com/?log
 ||quantcast.mgr.consensu.org/?log
 ||qubitanalytics.appspot.com^
+||query1.petametrics.com^
 ||quisma.com/tracking/
 ||quora.com/_/ad/
 ||quora.com/qevents.js
@@ -10740,6 +10743,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yahoo.co.jp/js/retargeting.js
 ! Korean
 ||acelogger.heraldcorp.com^
+||ad.aceplanet.co.kr^
+||adlc-exchange.toast.com^
 ||applog.ssgdfs.com^
 ||assets.datarize.ai^
 ||cafe24.com/cfa.js
@@ -11511,6 +11516,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dubz.live/analytics/
 ||duckduckgo.com/t/
 ||dumpster.cam4.com^
+||duolingo.com/2017-06-30/tracking-status
 ||e.quizlet.com^
 ||e.used.ca/event
 ||e.zg-api.com/event$domain=zillow.com

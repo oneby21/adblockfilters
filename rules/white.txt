@@ -63,3 +63,7 @@ www.haier.com
 net.haier.com
 # https://github.com/217heidai/adblockfilters/issues/57
 down.sandai.net
+# https://github.com/217heidai/adblockfilters/issues/58
+tantanapp.com
+# https://github.com/217heidai/adblockfilters/issues/59
+vv.video.qq.com
