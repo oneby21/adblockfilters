@@ -4,8 +4,8 @@
 ! Powerd by Cats-Team
 ! Expires: 1 (update frequency)
 ! Description: The DNS Filters
-! Total count: 121630 
-! Update: 2024-09-06 12:16:58(GMT+8)
+! Total count: 121651 
+! Update: 2024-09-07 08:04:20(GMT+8)
 /^.+stat\.kugou\.com/
 /^admarvel\./
 /^admaster\./
@@ -10543,7 +10543,6 @@
 ||ak.ceegriwuwoa.net^
 ||ak.groaxonsoow.net^
 ||ak.maneasiestways.com^
-||ak.ptailadsol.net^
 ||ak.sascdn.com^
 ||ak.youbetterhealthy.com^
 ||ak0gsh40.com^
@@ -14234,7 +14233,6 @@
 ||aps.hearstnp.com^
 ||apsalar.com^
 ||apsatnlfylz.com^
-||apsehick.date^
 ||apsidalmungoos.top^
 ||apsmediaagency.com^
 ||apsoacou.xyz^
@@ -16041,6 +16039,7 @@
 ||azcodegenerator.com^
 ||azdxypf.cn^
 ||azejckiv.com^
+||azenco.xyz^
 ||azenka.one^
 ||azeriondigital.com^
 ||azfancy.com^
@@ -17216,6 +17215,7 @@
 ||beacon-fullpage-predictor.goguardian.com^
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
+||beacon.apsehick.date^
 ||beacon.carfax.com^
 ||beacon.cdn.qq.com^
 ||beacon.cdnma.com^
@@ -17775,6 +17775,7 @@
 ||beta.simpel.nl^
 ||betabattefield4.com^
 ||betack.com^
+||betadeadlock.com^
 ||betads.xyz^
 ||betagameskeys.com^
 ||betaghosts.net^
@@ -17865,6 +17866,7 @@
 ||beyondmeasure.rigoltech.com^
 ||beyondsecurity.com^
 ||bezuka.xyz^
+||bezwtpxx.com^
 ||bf-ad.net^
 ||bf3h.com^
 ||bf4chinarising.dlcodes.com^
@@ -20415,7 +20417,6 @@
 ||buzzazone.com^
 ||buzzcity.net^
 ||buzzdancing.com^
-||buzzdeal.com^
 ||buzzer.xhamster.com^
 ||buzzer.xhofficial.com^
 ||buzzfiles.net^
@@ -22247,6 +22248,7 @@
 ||ceeleeca.com^
 ||ceemoptu.xyz^
 ||ceeqgwt.com^
+||ceethipt.com^
 ||ceezepegleze.xyz^
 ||cefuthodob.com^
 ||cegadazwdsp.com^
@@ -26699,6 +26701,7 @@
 ||crackdb.info^
 ||cracked.sx^
 ||crackedcraft.org^
+||crackedpc.org^
 ||crackedscripts.com^
 ||crackedzone.org^
 ||crackelite.com^
@@ -32602,6 +32605,7 @@
 ||deybshwg.com^
 ||deytee.com^
 ||deyubo.uno^
+||dezaleyarmless.com^
 ||dezpez.com^
 ||df-long.cn^
 ||df.huya.com^
@@ -35217,6 +35221,7 @@
 ||dxtsqgnwn.com^
 ||dxtv1.com^
 ||dxuuvxweynac.com^
+||dxwksqa.icu^
 ||dxzky.love^
 ||dy10000.net^
 ||dyccdk.xyz^
@@ -37346,6 +37351,7 @@
 ||encompassreport.elliemae.com^
 ||encounterboastful.com^
 ||encounterfidelityarable.com^
+||encounterponder.com^
 ||encouragedrealityirresponsible.com^
 ||encouragedunrulyriddle.com^
 ||encouragingpistolassemble.com^
@@ -40210,6 +40216,7 @@
 ||ferret.tailgraph.com^
 ||ferriesendless.com^
 ||ferritediener.tech^
+||ferrmidline.com^
 ||ferrycontinually.com^
 ||ferthu.seyffer.shop^
 ||fertilecalfawelessaweless.com^
@@ -41956,6 +41963,7 @@
 ||fpmleqdb.com^
 ||fpninv.xyz^
 ||fpnpmcdn.net^
+||fppcrl.xyz^
 ||fpptmv.mrmarvis.co.uk^
 ||fprfvt.recambioscoches.es^
 ||fpstool.com^
@@ -42247,6 +42255,7 @@
 ||freedldz.com^
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
+||freedomgift50.com^
 ||freedominfo.net^
 ||freedomofsoftware.com^
 ||freedomsaved.com^
@@ -42951,9 +42960,9 @@
 ||fundraising.centuryresources.com^
 ||fundsdoge.org^
 ||funestjacket.shop^
-||funfilenow.com^
 ||fungamecheats.com^
 ||fungames.vip^
+||fungiaoutfame.com^
 ||fungus.online^
 ||funintheuk.com^
 ||funiooboqifnku.com^
@@ -43267,6 +43276,7 @@
 ||g11686975765.co^
 ||g1188506010.co^
 ||g11885060100.co^
+||g11edashb1.fun^
 ||g12083144435.co^
 ||g12281228770.co^
 ||g13eyx.com^
@@ -44255,6 +44265,7 @@
 ||gesdxashb1.fun^
 ||gesfdashb5.fun^
 ||gestiondocumentaire.ricoh.fr^
+||gesvfvfhhb6.fun^
 ||get-answers-fast.com^
 ||get-beta.kabbee.com^
 ||get-bills.com^
@@ -55191,6 +55202,7 @@
 ||jater.rcktrk.com^
 ||jatflh.pharmamarket.be^
 ||jatfugios.com^
+||jatobaviruela.com^
 ||jatomayfair.life^
 ||jatosbathkol.com^
 ||jatsekse.net^
@@ -61344,6 +61356,7 @@
 ||log.bigroundass.net^
 ||log.bitauto.com^
 ||log.bizlive.vn^
+||log.bloodppressure.info^
 ||log.bloodsugars.live^
 ||log.btopenworld.com^
 ||log.byteoversea.com^
@@ -61441,6 +61454,7 @@
 ||log.optimizely.com^
 ||log.oto.com.vn^
 ||log.particlenews.com^
+||log.pdfreaders.net^
 ||log.perfecttitspics.com^
 ||log.pinterest.com^
 ||log.pipeline.datarize.io^
@@ -62847,6 +62861,7 @@
 ||lzwxzz.chintaistyle.jp^
 ||lzxdx24yib.com^
 ||lzyjcooxsodz.com^
+||lzzqfj.xyz^
 ||lzzzjx.xyz^
 ||m-adash.m.taobao.com^
 ||m-metrics.capitalone.com^
@@ -71021,6 +71036,7 @@
 ||navi86.ru^
 ||navi88.com^
 ||navi94.com^
+||navi98.ru^
 ||navi99.com^
 ||naviblue-team.com^
 ||navigablepiercing.com^
@@ -71529,7 +71545,6 @@
 ||newjunk4u.com^
 ||newlawngarden.com^
 ||newlifezen.com^
-||newloc.map.n.shifen.com^
 ||newlog.daidoanket.vn^
 ||newlog.overwolf.com^
 ||newlog.reader.qq.com^
@@ -71843,6 +71858,7 @@
 ||ngegas.files.im^
 ||ngeoziadiyc4hi2e.com^
 ||ngfruitiesmatc.info^
+||ngfycrwwd.com^
 ||ngineet.cfd^
 ||nginxxx.xyz^
 ||ngjeaizqad.com^
@@ -77699,6 +77715,7 @@
 ||pejzeexukxo.com^
 ||pekcbuz.com^
 ||pekroace.net^
+||pekseerdune.xyz^
 ||pelageforgers.com^
 ||pelagicmismate.com^
 ||pelamydlours.com^
@@ -81258,6 +81275,7 @@
 ||ptafasoqwxzy.com^
 ||ptaicoamt.com^
 ||ptaicoul.xyz^
+||ptailadsol.net^
 ||ptaimpeerte.com^
 ||ptaissud.com^
 ||ptaixout.net^
@@ -83561,6 +83579,7 @@
 ||rcf3occ8.de^
 ||rcgi.video.qq.com^
 ||rcgwej.lights.co.uk^
+||rchmupnlifo.xyz^
 ||rclog.rcplatformhk.com^
 ||rcm-images.amazon.com^
 ||rcm-it.amazon.it^
@@ -83968,6 +83987,7 @@
 ||reddenlightly.com^
 ||redderspsiloi.guru^
 ||redditstream.arborapps.io^
+||reddockbedman.com^
 ||reddwarf.till-sanders.de^
 ||redeastbay.com^
 ||redebitapedom.com^
@@ -88333,6 +88353,7 @@
 ||scornfulabsorbploy.com^
 ||scornphiladelphiacarla.com^
 ||scorpion.clare.ink^
+||scotergushing.com^
 ||scotiahelp-loginscotia.com^
 ||scotianosed290noelind.com^
 ||scotiaonline-verification.com^
