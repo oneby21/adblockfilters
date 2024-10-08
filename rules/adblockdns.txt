@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241008161724
-! Last modified: 2024/10/08 16:17:24
-! Blocked domains: 156476
+! Version: 20241009001618
+! Last modified: 2024/10/09 00:16:18
+! Blocked domains: 156492
 ! unBlocked domains: 51
 !
 ||ihpost.03463247.xyz^
@@ -2963,6 +2963,7 @@
 ||65bfba9ad0.com^
 ||65spy7rgcu.com^
 ||65twenty.com^
+||65wenv5f.xyz^
 ||www.66-trk-srv.com^
 ||sar.66.ru^
 ||6604.org^
@@ -44194,6 +44195,7 @@
 ||docymas.com^
 ||staging-link.docyt.com^
 ||a8clk.doda.jp^
+||dodaihoptu.xyz^
 ||dodajkomentarz.click^
 ||dodajkomentarz.rest^
 ||dodatekgraczy.click^
@@ -76855,6 +76857,7 @@
 ||marketing.knoxville.org^
 ||knoxvillecommercialproperty.com^
 ||uskt.knpgmzd.com^
+||kntodvofiyjjl.xyz^
 ||knuinws.icu^
 ||knutenegros.pro^
 ||ads1.knxs.net^
@@ -77862,6 +77865,7 @@
 ||mobilead.kuwo.cn^
 ||nmobi.kuwo.cn^
 ||rich.kuwo.cn^
+||kuxfsgwjkfu.com^
 ||kuxkddg.cn^
 ||kuyhaa-me.pw^
 ||kuyhaa.cc^
@@ -94136,6 +94140,7 @@
 ||data-6345746ba5.nwz-glueckwunsch.de^
 ||data-6345746ba5.nwzonline.de^
 ||nxev.top^
+||nxgzeejhs.com^
 ||nxledn.xyz^
 ||sources.nxp.com^
 ||nxrajr.xyz^
@@ -109674,6 +109679,7 @@
 ||www.qiaopiguniang.com^
 ||qiaoxz.xyz^
 ||qibkkioqqw.com^
+||qibqiwczoojw.com^
 ||qichetansuo.com^
 ||qickazzmoaxv.com^
 ||qicyhaequu.live^
@@ -115767,6 +115773,7 @@
 ||web.contact.saintlukeskc.org^
 ||saintselfish.com^
 ||saipeevit.net^
+||saiphoogloobo.net^
 ||saipsoan.net^
 ||trk.sais.ch^
 ||adebis.saison-pocket.com^
@@ -116128,6 +116135,7 @@
 ||sanjosestandard.com^
 ||sanjosestartups.com^
 ||sankakustatic.com^
+||b.ranking.apis.sankei-digital.co.jp^
 ||promos.sanmarcanada.com^
 ||sanneusports.com^
 ||sannsyn.com^
@@ -116998,6 +117006,7 @@
 ||sddan.com^
 ||sdfeaa.top^
 ||sdfecc.top^
+||sdfewed.com^
 ||sdfgsdf.cfd^
 ||sdfsdvc.com^
 ||sdfsshop1.com^
@@ -119640,6 +119649,7 @@
 ||sidewalkserenity.xyz^
 ||sidewayfrosty.com^
 ||sidewaysuccession.com^
+||sidsaignoo.net^
 ||ilkk97e98lvg.www.sidsplumbing.ie^
 ||siduspad-captchabot.com^
 ||siecwydarzen.click^
@@ -132157,6 +132167,7 @@
 ||thor-pom.com^
 ||thor-z.com^
 ||thoracometry.info^
+||thordoodovoo.net^
 ||thorenext.com^
 ||smetrics.thorn.se^
 ||click.web.thornburg.com^
@@ -148350,6 +148361,7 @@
 ||whechypheshu.com^
 ||b.whee.ly^
 ||wheebsadree.com^
+||wheegaulrie.net^
 ||wheejooh.com^
 ||wheel.to^
 ||a.wheelabratorgroup.com^
@@ -148405,6 +148417,7 @@
 ||wheyonsale.com^
 ||whfdny.org^
 ||js.whfyhouse.com^
+||whgh1.icu^
 ||syndication.whibd.com^
 ||whiboubs.com^
 ||syndication.whibp.com^
@@ -150595,6 +150608,7 @@
 ||wryfruw.com^
 ||wryqahbilc.com^
 ||ws5ujgqkp.com^
+||ws67eqwwp.pro^
 ||wsafeguardpush.com^
 ||wsaidthemathe.info^
 ||marketing.wsandco.com^
@@ -152502,6 +152516,7 @@
 ||xvzcfh.xyz^
 ||xvzfyra.xyz^
 ||xvzvqoq.xyz^
+||xvzyyzix.com^
 ||trck1.xwager.xyz^
 ||xwagtyhujov.com^
 ||xwbmjb.xyz^
@@ -156378,6 +156393,7 @@
 ||a8clk.www.zwei.com^
 ||chicken.zwei.haus^
 ||app.zwilling.com^
+||zwk7ybbg.net^
 ||zwlxnj.xyz^
 ||zwnhufcwhaw.com^
 ||zwnoeqzsuz.com^
