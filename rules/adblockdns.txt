@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241018161714
-! Last modified: 2024/10/18 16:17:14
-! Blocked domains: 168658
+! Version: 20241019001556
+! Last modified: 2024/10/19 00:15:56
+! Blocked domains: 168692
 ! unBlocked domains: 46
 !
 ||053h94.com^
@@ -264,6 +264,7 @@
 ||10un.jp^
 ||10vekatu.jp^
 ||1100ad.com^
+||1102085370.rsc.cdn77.org^
 ||11093.jp^
 ||guelvp.1111.com.tw^
 ||1111sale.us^
@@ -464,6 +465,7 @@
 ||go.128technology.com^
 ||allegrolokalnie.12948-09a0.shop^
 ||129ldvip.com^
+||12aksss.xyz^
 ||12b99.com^
 ||12bet.com^
 ||www.12bet.uk^
@@ -9753,6 +9755,7 @@
 ||ads.alaatv.com^
 ||alabadoseas.com^
 ||tracking.biz.alabamapower.com^
+||alackzokor.com^
 ||12311.aladdaican.xyz^
 ||222.aladdaican.xyz^
 ||buy.aladdaican.xyz^
@@ -15695,6 +15698,7 @@
 ||atdeerlinga.com^
 ||atdmaincode.com^
 ||atdnetwork.com^
+||ate60vs7zcjhsjo5qgv8.com^
 ||delete.atea.fi^
 ||fromhttptohttps.atea.fi^
 ||kampanjat.atea.fi^
@@ -23282,6 +23286,7 @@
 ||blbinnovation.com^
 ||blcnder.org^
 ||blcoder.com^
+||bld.mobi^
 ||bldhlsdonline.top^
 ||bleachbit.com^
 ||link.marketing.bleacherreport.com^
@@ -26185,6 +26190,7 @@
 ||hwkoro.bolf.cz^
 ||pgedqw.bolf.ro^
 ||bolgspot.com^
+||nrpukcsgboqr0gz2o8.www.bolighub.dk^
 ||boligkanalen-maestro-new.azurewebsites.net^
 ||bollon.ru^
 ||go.bal.bollore.com^
@@ -29346,6 +29352,7 @@
 ||camsitecash.com^
 ||camsoda.com^
 ||camsoda1.com^
+||creative.camsplanetlive.com^
 ||go.camterest.com^
 ||ads.host.camz.com^
 ||camzap.com^
@@ -32523,6 +32530,7 @@
 ||cimlabibl.ru^
 ||cimm.top^
 ||cimrigross.com^
+||cimtaiphos.com^
 ||cinamuse.com^
 ||cincherdatable.com^
 ||data-47ee1b0882.cincinnati-muenchen.de^
@@ -41061,6 +41069,7 @@
 ||find.devices.report^
 ||deviceseal.com^
 ||aab.devicetests.com^
+||deview-moryant.icu^
 ||devifiy.com^
 ||devifoodgrains.com^
 ||pop.devil.services^
@@ -41241,6 +41250,7 @@
 ||dfthethao.com^
 ||dfvmzx.xyz^
 ||dfwi.net^
+||dfwzepkz.com^
 ||dfykj.blogspot.co.nz^
 ||dg-32lt.cfd^
 ||lgylib.dg-home.ru^
@@ -48793,6 +48803,7 @@
 ||av.eulerupslant.com^
 ||eumenesgigsman.com^
 ||track.eunatural.com^
+||eunpprzdlkf.online^
 ||euosicjxjv.com^
 ||eupharmacist.com^
 ||euplnd.site^
@@ -51230,6 +51241,7 @@
 ||aboutharrypotter.fasthost.tv^
 ||fasthypenews.com^
 ||fastideas.com^
+||fastidiousilliteratehag.com^
 ||fastify.com^
 ||tracking.fastighetsnytt.se^
 ||ab.fastighetsvarlden.se^
@@ -52070,6 +52082,7 @@
 ||fgenergy.pl^
 ||fghghh.cn^
 ||fghhbp.xyz^
+||fgk-jheepn.site^
 ||enhance-config.fgl.com^
 ||fgn.me^
 ||fgnfpnae.icu^
@@ -60531,6 +60544,7 @@
 ||log.gobankingrates.com^
 ||products.gobankingrates.com^
 ||gobapp.me^
+||gobbingtheresa.com^
 ||app.gobearcats.com^
 ||t.gobearcats.com^
 ||app.gobearkats.com^
@@ -85220,6 +85234,7 @@
 ||ljubleasyu.com^
 ||tracking.ljusdalsposten.se^
 ||tracking.etidning.ljusdalsposten.se^
+||ljvc0.icu^
 ||ljyajgjvuv.com^
 ||lk-gosuslugi.ru^
 ||lk-lk-rt.ru^
@@ -91084,6 +91099,7 @@
 ||mhccompetitions.com^
 ||mhcfsjbqw.com^
 ||mhcsn.org^
+||mhczintehtfjzp.com^
 ||tr.btob.mhdfrance.fr^
 ||tr.future-commerce.mhdfrance.fr^
 ||tr.mhdconnect.mhdfrance.fr^
@@ -101710,6 +101726,7 @@
 ||office-roll.com^
 ||data.diagnostics.office.com^
 ||office.org^
+||office1266.fun^
 ||office2web.com^
 ||officeaddons.com^
 ||vkkasm.officechairsusa.com^
@@ -105913,6 +105930,7 @@
 ||my.pannar.com^
 ||pannumregnal.com^
 ||app.panomoments.com^
+||panoplywalkist.com^
 ||panoramacharter.click^
 ||mestresdaclimatizacao.panoramagoias.com.br^
 ||panoramicplane.com^
@@ -106508,6 +106526,7 @@
 ||marketing.pattonhc.com^
 ||pattychio.com^
 ||pattyheadlong.com^
+||patyholdups.com^
 ||www.patylitem.com^
 ||pauchalopsin.com^
 ||pauewr4cw2xs5q.com^
@@ -118426,6 +118445,7 @@
 ||pycvlnu.com^
 ||pycyveyzou.space^
 ||pyerc.com^
+||pyewdnerftym.com^
 ||pygacuo.com^
 ||pyh-news.click^
 ||pyknrhm5c.com^
@@ -118579,6 +118599,7 @@
 ||dp.qcarsdk.com^
 ||pxl.qccerttest.com^
 ||qccoccocmedia.vn^
+||qceatqoqwpza.com^
 ||qceyyxauc.xyz^
 ||qchannel04.cn^
 ||qcjslm.com^
@@ -119646,6 +119667,7 @@
 ||quqizo.com^
 ||ququdm.com^
 ||qureel.com^
+||quresdy.top^
 ||analytics.qushad.com^
 ||qusrow.xyz^
 ||qutconest.com^
@@ -122937,6 +122959,7 @@
 ||rhubarbsuccessesshaft.com^
 ||rhudsplm.com^
 ||go.rhumbix.com^
+||rhumbslauders.click^
 ||rhvdsplm.com^
 ||correouy.rhvl.top^
 ||rhwvpab.com^
@@ -127425,6 +127448,7 @@
 ||guufxr.sdbullion.com^
 ||sdburiram.com^
 ||sdbusinessdaily.com^
+||sdbuuzhjzznc.fun^
 ||sdbvveonb1.com^
 ||sdc-data.com^
 ||mdws.sdcu.com^
@@ -133543,6 +133567,7 @@
 ||analysis.sooplive.co.kr^
 ||collector1.sooplive.co.kr^
 ||reqde.sooplive.co.kr^
+||vod-mplayer.sooplive.co.kr^
 ||soopsepsi.net^
 ||soopsulo.xyz^
 ||sooqgerizim.com^
@@ -136482,6 +136507,7 @@
 ||stoomawy.net^
 ||stoopeddemandsquint.com^
 ||stoopedsignbookkeeper.com^
+||stoopfalse.com^
 ||stoopjam.com^
 ||stoopsellers.com^
 ||stoorgel.com^
@@ -139528,6 +139554,7 @@
 ||tagcash.com^
 ||blog.tagcentral.fr^
 ||tagcommander.com^
+||tagd-otmhf.world^
 ||tagdatax.com^
 ||tagdeliver.com^
 ||data-718a2dc909.tageblatt.de^
@@ -140416,6 +140443,7 @@
 ||ebxirc.taylorstitch.com^
 ||stats.tazeros.com^
 ||tazichoothis.com^
+||tazkiaonu.click^
 ||cdn.tazlo.cloud^
 ||marketing.tba.group^
 ||tbab395.com^
@@ -148075,6 +148103,7 @@
 ||trck.trcknotifs.com^
 ||a.trckr.club^
 ||trcktm.net^
+||trcktr.com^
 ||23.trdechat.top^
 ||as.trdechat.top^
 ||derq.trdechat.top^
@@ -153100,6 +153129,7 @@
 ||usunwirusa.pl^
 ||usurpatures.info^
 ||usurv.com^
+||usvitgco.com^
 ||usvkfwth.xyz^
 ||uswardwot.com^
 ||uswiadomieni.pl^
@@ -153672,6 +153702,7 @@
 ||valuequo.com^
 ||valuerfadjavelin.com^
 ||valuermainly.com^
+||valuerstarringarmistice.com^
 ||valuerstray.com^
 ||valueslinear.com^
 ||valuesmatter.com.au^
@@ -163524,6 +163555,7 @@
 ||x0.nl^
 ||x011bt.com^
 ||allegrolokalnie.x0v-s0a9-v0s9.shop^
+||x0y081e.xyz^
 ||allegrolokalnie.x0y19p13.shop^
 ||x10.com^
 ||detailstrustedhere.x10.mx^
@@ -166434,6 +166466,7 @@
 ||ytqeavc.icu^
 ||ytqlyw.xyz^
 ||ytree3.wixsite.com^
+||ytroytj33.fun^
 ||ytru4.pro^
 ||yttersiden.no^
 ||yttfoodblog.com^
@@ -168030,6 +168063,7 @@
 ||zoogdisany.com^
 ||zooger.space^
 ||zoogripi.com^
+||zoogroocevee.xyz^
 ||dii1.zoohit.cz^
 ||dii2.zoohit.cz^
 ||dii3.zoohit.cz^
