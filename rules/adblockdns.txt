@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241026001553
-! Last modified: 2024/10/26 00:15:53
-! Blocked domains: 158122
+! Version: 20241026085804
+! Last modified: 2024/10/26 08:58:04
+! Blocked domains: 158147
 ! unBlocked domains: 36
 !
 ||0-0.fr^
@@ -8143,6 +8143,7 @@
 ||adwalte.info^
 ||adwards.xyz^
 ||adwarepatrol.com^
+||adwareremovergold.com^
 ||www.adwarespy.com^
 ||adway.org^
 ||tracking.adweb.co.kr^
@@ -20087,6 +20088,7 @@
 ||bedziepasjaczas.autos^
 ||bedzierelacjeby.website^
 ||bedzietworczoscu.homes^
+||beeaar.com^
 ||beead.co.uk^
 ||beead.net^
 ||www.adimages.beeb.com^
@@ -23568,6 +23570,7 @@
 ||bitcro.com^
 ||affil.bitdef.cz^
 ||sstats.bitdefender.com^
+||bitdefender.top^
 ||auth.bitdefenderupdate.com^
 ||bite-life.com^
 ||biteg.xyz^
@@ -27879,6 +27882,7 @@
 ||www.bravenet.com^
 ||www.bravenetmedianetwork.com^
 ||smetrics.bravenhealth.com^
+||bravespace.pro^
 ||bravetense.com^
 ||bravica.biz^
 ||bravica.com^
@@ -29204,6 +29208,7 @@
 ||buzzcurrentnews.shop^
 ||buzzcurrentstories.shop^
 ||buzzdancing.com^
+||buzzdeal.com^
 ||buzzdeck.com^
 ||search.buzzdock.com^
 ||ifdfd-gaaf.buzzfd.com^
@@ -30907,6 +30912,7 @@
 ||catsnetwork.ru^
 ||catsnthing.com^
 ||catsnthings.fun^
+||catsupskepped.com^
 ||catterybengal.com^
 ||cattishfearfulbygone.com^
 ||cattishhistoryexplode.com^
@@ -40019,6 +40025,7 @@
 ||dana123.com^
 ||secure.dana8herb.com^
 ||www.dana8herb.com^
+||danaaman.xyz^
 ||danaburkart.com^
 ||partneri.danahanouskova.cz^
 ||danainstan.xyz^
@@ -44887,6 +44894,7 @@
 ||data.dreamland.be^
 ||securedata.dreamland.be^
 ||marketing.dreamlawn.com^
+||dreamlikefostergala.com^
 ||dreamlist.top^
 ||dreamlog.ru^
 ||dreamnews.biz^
@@ -56444,7 +56452,6 @@
 ||info.freedomcte.com^
 ||freedomdaily.com^
 ||smetrics.freedomfordsales.ca^
-||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedommedianetwork.com^
 ||strack.freedommobile.ca^
@@ -67196,6 +67203,7 @@
 ||houdodoo.net^
 ||analytics.houghtonstatebank.com^
 ||sanalytics.houghtonstatebank.com^
+||hougriwhabool.net^
 ||houhoumooh.net^
 ||a8cv.houjin-keitai.com^
 ||ad.houkei-shinjuku.com^
@@ -72810,6 +72818,7 @@
 ||a.itim.es^
 ||itincorpora.com^
 ||itinerarymonarchy.com^
+||itjcqlp.icu^
 ||data-337242f510.itk-rheinland.de^
 ||itlabs.shop^
 ||v1.ard.update.itlily.com^
@@ -75898,6 +75907,8 @@
 ||jubam.com.br^
 ||jubbie.de^
 ||du.jubhahbalize.com^
+||ads.jubii.dk^
+||ads2.jubii.dk^
 ||jubilantaura.com^
 ||jubilantcanyon.com^
 ||jubilantglimmer.com^
@@ -79679,6 +79690,7 @@
 ||ladenapp.com^
 ||tracking.ladies.de^
 ||ladiesforyou.net^
+||ladiesmeetnow.top^
 ||a.ladipage.com^
 ||att.ladmvie.com^
 ||ladnet.co^
@@ -94918,6 +94930,7 @@
 ||nip28.com^
 ||nip3.com^
 ||nip5.com^
+||nip50.com^
 ||nip57.com^
 ||nip69.com^
 ||nip8.com^
@@ -96993,6 +97006,7 @@
 ||oddsserve.com^
 ||www.oddsshark.com^
 ||odebranie-punktu.eu^
+||odeecmoothaith.net^
 ||mousebusters.odencat.com^
 ||snowman.odencat.com^
 ||starchild.odencat.com^
@@ -100807,6 +100821,7 @@
 ||pasca4d.com^
 ||plwnxe.pascalcoste-shopping.com^
 ||a8cv.www.pascaljp.com^
+||paschliebig.com^
 ||ma.pasco.com^
 ||pascoreporter.com^
 ||paservices.tech^
@@ -102263,6 +102278,7 @@
 ||phoaphoxsurvey.space^
 ||phoawhap.net^
 ||phobia.net^
+||phockoogeeraibi.xyz^
 ||phoenix-widget.com^
 ||metrics.phoenix.edu^
 ||smetrics.phoenix.edu^
@@ -104047,7 +104063,6 @@
 ||poliglotos.pl^
 ||poliglu.com^
 ||dpd.polikjubsdy.org^
-||polinaryapp.com^
 ||polinpostcey.top^
 ||invest.polinvst.com^
 ||journal.polinvst.com^
@@ -112197,6 +112212,7 @@
 ||qshare.ru^
 ||tkpljs.qsimall.com^
 ||qskin.pro^
+||qskvfuiywah.com^
 ||qskxpvncyjly.com^
 ||qsptv.net^
 ||newnet.qsrch.com^
@@ -121209,6 +121225,7 @@
 ||sgnetwork.co^
 ||sgoke0333.info^
 ||sgood.ru^
+||sgozmks.icu^
 ||www.sgp-shopify.shop^
 ||sgplayph14.top^
 ||sgppost.cc^
@@ -129224,6 +129241,7 @@
 ||click.sutra.co^
 ||sutraf.com^
 ||www.inpost-pl-mynid2ihxa.sutras.app^
+||sutterflorate.com^
 ||analytics.sutterhealth.org^
 ||sutugoodies.com^
 ||suturaletalage.com^
@@ -133091,6 +133109,7 @@
 ||tesm.tesxappes.top^
 ||tesx.tesxappes.top^
 ||tradpl.tesxappes.top^
+||tetherslapillo.click^
 ||hnkopd.tethertools.com^
 ||aff.teticka.cz^
 ||tetigi.com^
@@ -148020,6 +148039,7 @@
 ||wandops.com^
 ||international.wandw.ac.nz^
 ||axp.wane.com^
+||wanedredates.com^
 ||wanfteakgakt.com^
 ||wangfenxi.com^
 ||wangjaih.com^
@@ -149984,6 +150004,7 @@
 ||weiyavr.com^
 ||huatuo.weiyun.com^
 ||weizhenwx.com^
+||wejeestuze.net^
 ||data-3c91d46d9d.weka-fachmedien.de^
 ||www.weknow.ac^
 ||wekomoa.com^
@@ -153596,6 +153617,8 @@
 ||data.mistat.rus.xiaomi.com^
 ||de.pandora.xiaomi.com^
 ||dvb.pandora.xiaomi.com^
+||f6.market.xiaomi.com^
+||f7.market.xiaomi.com^
 ||image.cdn.pandora.xiaomi.com^
 ||milink.pandora.xiaomi.com^
 ||misc.pandora.xiaomi.com^
@@ -154230,6 +154253,7 @@
 ||xukuruifuo.live^
 ||xulikuisae.live^
 ||xulizui6.com^
+||xumamropnox.com^
 ||ad.xunkids.com^
 ||adsp.xunlei.com^
 ||advertpay-vip-ssl.xunlei.com^
@@ -154334,6 +154358,7 @@
 ||xxmh645.com^
 ||xxniln.xyz^
 ||usps.xxogzrcmhf.top^
+||xxqmtod.icu^
 ||xxsmad1.com^
 ||xxsmad2.com^
 ||xxsmad3.com^
