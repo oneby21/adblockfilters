@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241027001428
-! Last modified: 2024/10/27 00:14:28
-! Blocked domains: 165662
+! Version: 20241027090403
+! Last modified: 2024/10/27 09:04:03
+! Blocked domains: 165713
 ! unBlocked domains: 44
 !
 ||0-0.fr^
@@ -649,6 +649,7 @@
 ||1736253261.rsc.cdn77.org^
 ||www.17388.com^
 ||img.175532.com^
+||1771616246.rsc.cdn77.org^
 ||177o.com^
 ||1789bet.com^
 ||178gg.com^
@@ -2351,6 +2352,7 @@
 ||olx.4141382.shop^
 ||4151.biz^
 ||c4be7269bb.418419de36.com^
+||41eak.life^
 ||c002d5e58d.41f8869f7c.com^
 ||41ravel46rive54ech.quest^
 ||tracking.42-01pr5-osm-secure.co.uk^
@@ -3068,6 +3070,7 @@
 ||js.5xml.com^
 ||5xp6lcaoz.com^
 ||5yfi7sy.com^
+||5z2oy.icu^
 ||6-partner.com^
 ||shrek.6.cn^
 ||simba.6.cn^
@@ -3973,6 +3976,7 @@
 ||8game19.com^
 ||8game20.com^
 ||8gold.com^
+||8gra3.icu^
 ||8icuu.com^
 ||8il2nsgm5.com^
 ||cfb.8it.me^
@@ -7369,6 +7373,7 @@
 ||adpozitif.com^
 ||adpredictive.com^
 ||adpremium.ru^
+||adpresenter.de^
 ||tracking.adpri.org^
 ||adprimemedia.com^
 ||adprimemedia.net^
@@ -9361,6 +9366,7 @@
 ||aicapitalbuilder.pro^
 ||aicerta.com^
 ||aichappraisers.com^
+||aichatgptforpc.com^
 ||aickeebsi.com^
 ||aicoding.cfd^
 ||goat.aicontentdojo.com^
@@ -10269,6 +10275,7 @@
 ||lnpost.alesni.pw^
 ||alespeonor.com^
 ||niania74.alesprokesova.pl^
+||alesrepreswsenta.com^
 ||alessandraleone.com^
 ||polska-vinted-hjso21.alessandralist.top^
 ||vinted-pl-gj32d.alessandralist.top^
@@ -24344,6 +24351,7 @@
 ||bigstat.net^
 ||tracking.bigstatesnews.com^
 ||bigstats.net^
+||bigstoreminigames.space^
 ||go.bigteams.com^
 ||bigtech.news^
 ||a.bigtennetwork.com^
@@ -32959,6 +32967,7 @@
 ||cdunwi.xyz^
 ||cduporno.fr^
 ||cduygiph.com^
+||cdvmgqs-ggh.tech^
 ||cdwmpt.com^
 ||cdwmtt.com^
 ||cdxbml.com^
@@ -38880,6 +38889,7 @@
 ||joda.corriereadriatico.it^
 ||marketing.corrigan.com^
 ||corroeargintino.com^
+||corroercl.xyz^
 ||corruptcy.com^
 ||corruptsolitaryaudibly.com^
 ||takin.cors.digital^
@@ -41676,6 +41686,7 @@
 ||d7644a4674.d53d0454c1.com^
 ||67b3239ff1.d58f989012.com^
 ||d5chnap6b.com^
+||d5db478dde.com^
 ||d5wxfe8ietrpg.cloudfront.net^
 ||d613466cf9.com^
 ||d62mrph0xm5hi.cloudfront.net^
@@ -45165,6 +45176,7 @@
 ||disefeahya.com^
 ||disembarkappendix.com^
 ||disenoart.com^
+||disfigured-survey.pro^
 ||disfiguredirt.com^
 ||www.disfracespartytime.com.ar^
 ||disfrutasaludable.com^
@@ -57657,6 +57669,19 @@
 ||eurovisions.free.fr^
 ||pp.free.fr^
 ||surfeurdor.free.fr^
+||4569-5690.free.nf^
+||domain-lane5.free.nf^
+||freebee.free.nf^
+||instagrams.free.nf^
+||kacastek24.free.nf^
+||planning-go.free.nf^
+||ready-prime.free.nf^
+||register-turnamen.free.nf^
+||validar-pin.free.nf^
+||verifypageinformations.free.nf^
+||vote-ref.free.nf^
+||voting-dodger.free.nf^
+||yooterp-plakeroit0012.free.nf^
 ||freeadd.me^
 ||freeaddposting.com^
 ||r.freeadultporn.tv^
@@ -63922,6 +63947,7 @@
 ||a8clk.gurutas.jp^
 ||gurynyce.com^
 ||gus.host^
+||gusadrwacg.com^
 ||gushfaculty.com^
 ||b.gushiciju.com^
 ||mo.gushiji.cc^
@@ -70185,6 +70211,7 @@
 ||membership.garenaa.id.vn^
 ||nhanquasangtao-ff.grarenaa.id.vn^
 ||id0984821-s04.shop^
+||pay.booking.id19045617.info^
 ||aruba-paga-fattura.id2008898.com^
 ||vlnted-gb.id243129.info^
 ||pocztapl.id2954.com^
@@ -82170,6 +82197,7 @@
 ||kpeonnafmo.com^
 ||kpfa.com^
 ||foodpackaging.kpfilms.com^
+||kpgbxnpwrsnsi.com^
 ||kphcrjth.xyz^
 ||kpicentral.com^
 ||kpihero.com^
@@ -82570,6 +82598,7 @@
 ||m1.kuanff.com^
 ||app.kuathletics.com^
 ||t.kuathletics.com^
+||kuavzlpzhxs.com^
 ||kubachigugal.com^
 ||lesnyraj.kubakosma.pl^
 ||ebis.kubara.jp^
@@ -83272,6 +83301,7 @@
 ||marketing.lakepointadvisorygroup.com^
 ||lakequincy.com^
 ||lakeregionnews.com^
+||lakersfanshoponline.com^
 ||preferences.lakersgaming.com^
 ||go.lakeshorelearning.com^
 ||smetrics.lakeshorelearning.com^
@@ -88166,6 +88196,7 @@
 ||m3i0v745b.com^
 ||m4n.nl^
 ||m4rkt.com^
+||m4su.online^
 ||m4thslot.com^
 ||innovation.m5.net^
 ||m53frvehb.com^
@@ -89477,6 +89508,7 @@
 ||trk.margarinaiberia.com.mx^
 ||margaritaimmense.com^
 ||margaritapowerclang.com^
+||marginjavgg124.fun^
 ||marginz03nx1oe.jp^
 ||marhaba-firmware.com^
 ||maria-zofia.com^
@@ -98525,6 +98557,7 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -100646,7 +100679,6 @@
 ||nip28.com^
 ||nip3.com^
 ||nip4.com^
-||nip44.com^
 ||nip5.com^
 ||nip57.com^
 ||nip69.com^
@@ -117947,6 +117979,7 @@
 ||smetrics.pwcavocats.com^
 ||smetrics.pwcconsulting.co.kr^
 ||marketing.pwcfo.com^
+||pwcgditcy.com^
 ||smetrics.pwchk.com^
 ||smetrics.pwclegal.ee^
 ||pwddhc.xyz^
@@ -118394,6 +118427,7 @@
 ||qnmesegceogg.com^
 ||advertisement.glb.qnniu.com^
 ||qnp16tstw.com^
+||qnqtgyq.icu^
 ||qnrscbotmsj.com^
 ||qnscoatednuts.com^
 ||qnsr.com^
@@ -118730,6 +118764,7 @@
 ||quaintlake.com^
 ||quaintmembershipprobably.com^
 ||quaintorgic.digital^
+||quaizoa.xyz^
 ||quakemarketing.com^
 ||qcc.qualcomm.com^
 ||qcc.qccgeo.qualcomm.com^
@@ -121662,6 +121697,7 @@
 ||researchnow.co.uk^
 ||researchnow.com^
 ||www.researchsolutions.com^
+||reseatkiddy.click^
 ||reseeingo.com^
 ||ksdarprt.reseguiden.se^
 ||metrics.reseguiden.se^
@@ -125809,6 +125845,7 @@
 ||scanunderstiff.com^
 ||scanverify.com^
 ||scanwasted.com^
+||scapulaburgoo.click^
 ||scarabresearch.com^
 ||smetrics.scarboroughtoyota.ca^
 ||scarcecard.com^
@@ -129333,6 +129370,7 @@
 ||aff.simibo.net^
 ||smetrics.similac.com^
 ||metrics.similac.com.tr^
+||similargrocery.pro^
 ||similarpresence.com^
 ||go.similarweb.com^
 ||matomo.similarweb.io^
@@ -129857,6 +129895,7 @@
 ||analytics.sjf.se^
 ||sjgsgy.xyz^
 ||sjkzeivw.com^
+||sjluuom.icu^
 ||sjmsw.net^
 ||smetrics.sjmtech.ma^
 ||ads.sjon.info^
@@ -135055,6 +135094,7 @@
 ||stonkstime.com^
 ||stonyfordmiber.life^
 ||stoobsugree.net^
+||stoodthestatueo.com^
 ||stookoth.com^
 ||stoolree.com^
 ||stoomawy.net^
@@ -143577,6 +143617,7 @@
 ||smetrics.tirebusiness.com^
 ||tirecolloquialinterest.com^
 ||tireconfessed.com^
+||tireconnateunion.com^
 ||tiredthroat.com^
 ||tirejav12.fun^
 ||tirend.com^
@@ -143965,6 +144006,7 @@
 ||toeapesob.com^
 ||mtqqni.toebox.com^
 ||toeibl.com^
+||toenailannouncehardworking.com^
 ||toenailplaywright.com^
 ||toenailtrishaw.com^
 ||toenur.top^
@@ -148283,6 +148325,7 @@
 ||tydouke.com^
 ||tydrfoil.site^
 ||info.tyfone.com^
+||tyfuufdp-xbd.top^
 ||tygavoydyy.com^
 ||www.tygersci.com^
 ||data-f1c47705fc.tygodnik-rolniczy.pl^
@@ -150175,6 +150218,7 @@
 ||upstartwings.com^
 ||upstatescnews.com^
 ||upstats.ru^
+||upstrick.com^
 ||upsups.click^
 ||upsworldtracker.com^
 ||uptafashib.com^
@@ -152093,6 +152137,7 @@
 ||vbiakpu.icu^
 ||usdp.vbiyctxf.top^
 ||vbm1.ru^
+||vbnjphbzgmya.com^
 ||vboro.de^
 ||vbrbgki.com^
 ||go.vbrick.com^
@@ -155586,6 +155631,7 @@
 ||wait4hour.info^
 ||secure.wait8hurl.com^
 ||www.wait8hurl.com^
+||waitedprowess.com^
 ||waiterregistrydelusional.com^
 ||waitheja.net^
 ||waitingnumber.com^
@@ -158024,6 +158070,7 @@
 ||wheejooh.com^
 ||a.wheelabratorgroup.com^
 ||wheeledabbotafterward.com^
+||wheeledfunctionstruthfully.com^
 ||dashboard.wheelio-app.com^
 ||wheelmaxbd.com^
 ||aiqx.wheeloffortune.com^
@@ -160453,6 +160500,7 @@
 ||wubrvwoirvwpiuroiue.site^
 ||aeoncardservice.wuc9c6ycmwb9w6.top^
 ||wuchaurteed.com^
+||wuci1.xyz^
 ||wuckaity.com^
 ||wuczmaorkqaz.com^
 ||wudang05.com^
@@ -161599,6 +161647,8 @@
 ||b.xlineker.com^
 ||xliuits.icu^
 ||xlivesex.com^
+||xlivesucces.com^
+||xlivesucces.world^
 ||xlkdbbvy.xyz^
 ||xlmdtiyqbkygtfkh.com^
 ||qlspmy.xlmoto.be^
@@ -163837,6 +163887,7 @@
 ||hubkgy.yves-rocher.sk^
 ||yves-rocker.fr^
 ||yvesluciendecottignies.com^
+||yvjexi.shop^
 ||yvjxasanj.com^
 ||yvmads.com^
 ||yvnxetmq.xyz^
