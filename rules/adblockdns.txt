@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241102001525
-! Last modified: 2024/11/02 00:15:25
-! Blocked domains: 158282
+! Version: 20241102085850
+! Last modified: 2024/11/02 08:58:50
+! Blocked domains: 158299
 ! unBlocked domains: 47
 !
 ||inp0st.0344223.xyz^
@@ -11598,6 +11598,7 @@
 ||animemeat.com^
 ||animememehub.com^
 ||animenime.ru^
+||animeshoppers.com^
 ||api.animeshqip.icu^
 ||notifications.animeshqip.info^
 ||animi2.com^
@@ -22046,6 +22047,7 @@
 ||metrics.biddertmz.com^
 ||biddingfitful.com^
 ||biddingx.com^
+||bidehunter.com^
 ||bidenharris2k20.com^
 ||bideo-blog.xyz^
 ||bideo-cdn.com^
@@ -40897,6 +40899,7 @@
 ||rtb-useast-v4.datadrives.ai^
 ||xml-v4.datadrives.ai^
 ||dataentryworkfromhomejobs.com^
+||datafa.st^
 ||app.datafastguru.info^
 ||cfg.datafastguru.info^
 ||pstatic.datafastguru.info^
@@ -57525,6 +57528,7 @@
 ||friday89.com^
 ||fridayaffectionately.com^
 ||fridayarched.com^
+||fridaylocalmanager.duckdns.org^
 ||www.fridaymash.com^
 ||fridaypatnod.com^
 ||fridaywake.com^
@@ -66466,6 +66470,7 @@
 ||frdoki.heisei-housewarming.work^
 ||heisenbergseocompany.com^
 ||ensighten.heishop.mx^
+||heiviek.com^
 ||heixbai.com^
 ||heixidor.com^
 ||data-cf8fd9b799.heizungsjournal.de^
@@ -70963,6 +70968,7 @@
 ||ifllwfs.com^
 ||api.iflychat.com^
 ||log.iflytek.com^
+||ifmccdn.icu^
 ||research.ifmo.ru^
 ||ifnpost-pl.top^
 ||ifollosports.com^
@@ -71209,6 +71215,7 @@
 ||pr.ikovrov.ru^
 ||ikpowkdsa.info^
 ||q.ikre.xyz^
+||ikspoopfp.com^
 ||ikssllnhrb.com^
 ||ikunselt.com^
 ||ups-org-pl.ikuweb.shop^
@@ -80235,6 +80242,7 @@
 ||kjhgftyuio8765e5678ioukhgfgtryuio.pages.dev^
 ||kjipko.xyz^
 ||kjlzt.cn^
+||kjnsgqe.icu^
 ||kjrspnbf.xyz^
 ||kjsdgbj.top^
 ||kjsvvnzcto.com^
@@ -89478,6 +89486,7 @@
 ||care.mercycare.org^
 ||images.info.mercycare.org^
 ||merdihatus.com^
+||merelsrealm.com^
 ||merequartz.com^
 ||go.meretmarine.com^
 ||mergeandcenter.com^
@@ -92329,6 +92338,7 @@
 ||mossgaietyhumiliation.com^
 ||marketing.mossinc.com^
 ||adx.mossru.com^
+||mossyiapyges.com^
 ||mossypinebush903.sbs^
 ||mostauthor.com^
 ||mostbet-original.ru^
@@ -95889,7 +95899,6 @@
 ||netfiix.mobi^
 ||netfirm.biz^
 ||netflix-bhr.com^
-||netflix-logariasmos.com^
 ||netflix-support-account.com^
 ||customerevents.netflix.com^
 ||netflix4u.com^
@@ -96227,6 +96236,7 @@
 ||newgrannypics.com^
 ||ads.newgrounds.com^
 ||promo.newgrowthtrends.com^
+||newgstore.com^
 ||newhacks24.net^
 ||krskux.newhaircaps.com.br^
 ||s.newhamburgindependent.ca^
@@ -105607,6 +105617,7 @@
 ||plaston.online^
 ||pb.plat.services^
 ||platchteopan.com^
+||platedmanlily.com^
 ||mt.plateiq.com^
 ||plateruena.com^
 ||platesnervous.com^
@@ -114830,6 +114841,7 @@
 ||go.rbfinance.com^
 ||rbfive.bid^
 ||rbhunp.xyz^
+||rbift.icu^
 ||mailer.rbis-averydennison.com^
 ||sdc.rbistats.com^
 ||rbiwpiccr.top^
@@ -124733,6 +124745,7 @@
 ||skuligpzifan.com^
 ||skulldesperatelytransfer.com^
 ||skullhalfway.com^
+||skullmagnets.com^
 ||skullypower.com^
 ||skunkfunkcrypto.com^
 ||skunscold.top^
@@ -128488,6 +128501,7 @@
 ||steamjaws.com^
 ||steamkeygiveaway.com^
 ||steamkeysfree.com^
+||steammcommunuty.ru^
 ||amz.steamprices.com^
 ||steamqr.site^
 ||images.steamray.com^
@@ -147407,6 +147421,7 @@
 ||vuibbuy.com^
 ||vuigiaitri.online^
 ||vuiluaz.xyz^
+||vuirssd.icu^
 ||vuittonu.com^
 ||vuiuk88.club^
 ||vujriahqyleveh.com^
@@ -152025,6 +152040,7 @@
 ||article.wmc-media.com^
 ||polska.wmc-media.com^
 ||wmcasher.ru^
+||wmcbld.top^
 ||wmcdpt.com^
 ||wmclickz.ru^
 ||wmdzefk.com^
@@ -155673,6 +155689,7 @@
 ||yeseid.com^
 ||yesflix.live^
 ||yesflix.online^
+||yesgwyn.com^
 ||ads.yeshanews.com^
 ||bi.yeshen.com^
 ||launcher-us.yeshen.com^
