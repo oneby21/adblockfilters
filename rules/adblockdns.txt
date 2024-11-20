@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241120161758
-! Last modified: 2024/11/20 16:17:58
-! Blocked domains: 163995
+! Version: 20241121001648
+! Last modified: 2024/11/21 00:16:48
+! Blocked domains: 164023
 ! unBlocked domains: 50
 !
 ||finalistcontesthub.000.pe^
@@ -2337,6 +2337,7 @@
 ||3redlightfix.com^
 ||3ri.cc^
 ||ad-ndtv.3s.com.vn^
+||3sas.icu^
 ||marketing.3scorp.com^
 ||ads.3sfmedia.com^
 ||adx.3sfmedia.com^
@@ -4194,7 +4195,7 @@
 ||97927e3b4d.com^
 ||97bike.com^
 ||97csj.com^
-||3653722100.97e7f92376.com^
+||97e7f92376.com^
 ||97papa.com^
 ||9800.com^
 ||ad.980x.com^
@@ -17348,6 +17349,7 @@
 ||azmsmufimw.com^
 ||aznapoz.info^
 ||aznbbeco.com^
+||az-neverblock.aznude.workers.dev^
 ||azoaltou.com^
 ||data-226a0f54a7.azonline.de^
 ||data-2b120c98f2.azonline.de^
@@ -32301,6 +32303,7 @@
 ||ckgnoy.com^
 ||ckgsrzu.com^
 ||ckict.com^
+||ckitwlmqy-c.today^
 ||assets.ckjr001.com^
 ||kpstaticbj.wx.ckjr001.com^
 ||wxa79ef55c1a84e284.wx.ckjr001.com^
@@ -37998,6 +38001,7 @@
 ||axp.cw7az.com^
 ||cwa-2020.com^
 ||cwc494e.cn^
+||cweizaf.top^
 ||cwin.com^
 ||cwin000.com^
 ||cwin02.com^
@@ -44301,6 +44305,7 @@
 ||dtnetworkz.com^
 ||dtnextech.com^
 ||dtnextwebsys.info^
+||dtootmvwy.top^
 ||dtoria.com^
 ||ads.dtpnetwork.biz^
 ||dtprofit.com^
@@ -46380,6 +46385,7 @@
 ||elassal-studio.com^
 ||elastic-data.fr^
 ||elasticad.net^
+||elasticalsdebatic.org^
 ||elasticchange.com^
 ||y4rm.trk.elasticemail.com^
 ||elasticstuffyhideous.com^
@@ -53255,6 +53261,7 @@
 ||a8cv.folli.jp^
 ||followcaleb.com^
 ||followercounter.com^
+||followjav182.fun^
 ||follripup.com^
 ||follyeffacegrieve.com^
 ||doz.folos.top^
@@ -57779,6 +57786,7 @@
 ||glerteeb.com^
 ||qc1c.gletber.com^
 ||gletchauka.net^
+||gletsimtoagoab.net^
 ||glevoloo.com^
 ||pixel.gliacloud.com^
 ||player.gliacloud.com^
@@ -60475,6 +60483,7 @@
 ||fbapi.guguread.com^
 ||smetrics.guhl.com^
 ||guhomnfuzq.com^
+||guhscaafjp.com^
 ||guhtoken.org^
 ||guiarondonia.com^
 ||lp.guiasaudebrasil.com^
@@ -75901,6 +75910,7 @@
 ||kindridmarketing.com^
 ||loginmicrosoftonline.kinds.cloud^
 ||kineckekyu.com^
+||kinedivast.top^
 ||kinemathek.ru^
 ||rtb-apac.kinesis-rtb.com^
 ||rtb-useast.kinesis-rtb.com^
@@ -77595,6 +77605,7 @@
 ||kushou.com^
 ||kushwahasangh.org^
 ||kusihio.pro^
+||kusjyfwishbhtgg.com^
 ||spolu.kuskakaa.cz^
 ||tk.kusmitea.com^
 ||a8cv.kusmitea.jp^
@@ -79920,6 +79931,7 @@
 ||ligatus.de^
 ||ligeia-gip.com^
 ||ligfdjnfd.cn^
+||light-coat.pro^
 ||light12v.com^
 ||lightbet.com^
 ||lightboxcdn.com^
@@ -81477,6 +81489,7 @@
 ||loralana.com^
 ||marketing.lord.com^
 ||smetrics.lordabbett.com^
+||lordeeksogoatee.net^
 ||lordgordon.it^
 ||ads.lordlucky.com^
 ||lordofads.com^
@@ -81807,6 +81820,7 @@
 ||lpawakkabpho.com^
 ||lpcloudsvr302.com^
 ||lpernedasesium.com^
+||lpewiduqiq.com^
 ||lpg02.com^
 ||go.email.lpi.ca^
 ||lpiarlfrriva.xyz^
@@ -89505,6 +89519,7 @@
 ||mpuwrudpeo.com^
 ||mqabjtgli.xyz^
 ||mqaoweu.icu^
+||mqckjjkx.com^
 ||mqcoycx.icu^
 ||mqdownload.com^
 ||usdg.mqfcwtnr.top^
@@ -94584,6 +94599,7 @@
 ||nohu35.com^
 ||noibu.com^
 ||noidacommercialspaces.com^
+||nois5gj.xyz^
 ||noiseless-vagabond-prosecution.glitch.me^
 ||noiselessplough.com^
 ||noiselessvegetables.com^
@@ -97367,6 +97383,7 @@
 ||olg.ca^
 ||smetrics.olgaintimates.com^
 ||mexicobar.olgierdkarp.sklep.pl^
+||olgrae.com^
 ||olgslotsandcasinos.ca^
 ||olibes.com^
 ||oligarquia.com^
@@ -100259,6 +100276,7 @@
 ||ozbnagojbop.com^
 ||ozboya.com^
 ||klienci-indywidualne-santander-sa.ozcamera.com^
+||ozcarcupboard.com^
 ||ozctkohaqmc.com^
 ||ozdq.cn^
 ||app.oze789.com^
@@ -104433,6 +104451,7 @@
 ||pledgeincludingsteer.com^
 ||meta-events.pledgereg.com^
 ||pledgetolerate.com^
+||pledgorulmous.top^
 ||apollo.plein.nl^
 ||sflvqq.pleinoutlet.com^
 ||pleisty.com^
@@ -106535,6 +106554,7 @@
 ||ppqy.fun^
 ||pprq7.com^
 ||game.pps.tv^
+||ppshh.rocks^
 ||api.afdback.ppsimg.com^
 ||ppslsa.com^
 ||ppspj.com^
@@ -137111,6 +137131,7 @@
 ||thaucugnil.com^
 ||thaudray.com^
 ||thauftoa.net^
+||thaugnaixi.net^
 ||thauhocm.net^
 ||thaujaukr.com^
 ||thautselr.com^
@@ -138123,6 +138144,7 @@
 ||mms.theroot.com^
 ||sourcepoint.theroot.com^
 ||theroswaf.com^
+||therplungestrang.org^
 ||therundownlive.com^
 ||www.therussophile.org^
 ||thesac3.top^
@@ -140168,6 +140190,7 @@
 ||url9810.tokocrypto.com^
 ||tokofyttes.com^
 ||tokshow.online^
+||toksoudsoab.net^
 ||toktamhome.ir^
 ||pub.toku-tag.jp^
 ||a8cv.cart3.toku-talk.com^
@@ -142563,6 +142586,7 @@
 ||treprime.com^
 ||tres8.info^
 ||tresensa.com^
+||trespassapologies.com^
 ||tressler.info^
 ||communication.treston.com^
 ||tretmumbel.com^
@@ -151146,6 +151170,7 @@
 ||ad.vkoolzzz.net^
 ||vksex.ru^
 ||vksphze.com^
+||vkv2nodv.xyz^
 ||vkwaeo.com^
 ||b.candy.vl.ru^
 ||dante.vl.ru^
@@ -153146,6 +153171,7 @@
 ||warumbistdusoarm.space^
 ||warungsabun69d.com^
 ||camel.warvik.no^
+||wary-corner.com^
 ||crop.warycafe.com^
 ||warzone.pw^
 ||wasabisale.xyz^
@@ -155742,6 +155768,7 @@
 ||partner.whoopdedoo.love^
 ||partner.whoopdedoo.me^
 ||whoostoo.net^
+||whootitoukrol.net^
 ||link.kingsnews.whopper.co.za^
 ||whoppercreaky.com^
 ||whoptoorsaub.com^
@@ -156933,6 +156960,7 @@
 ||ad.wmt.dk^
 ||marketing.wmta.org^
 ||illicium.wmtransfer.com^
+||wmtten.com^
 ||r255.wmtw.com^
 ||t.wmubroncos.com^
 ||j178.wmur.com^
