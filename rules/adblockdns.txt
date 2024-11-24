@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241124161605
-! Last modified: 2024/11/24 16:16:05
-! Blocked domains: 177749
+! Version: 20241125001510
+! Last modified: 2024/11/25 00:15:10
+! Blocked domains: 177748
 ! unBlocked domains: 49
 !
 ||04tips.com^
@@ -56503,6 +56503,7 @@
 ||fiestasalou.com^
 ||sanalytics.fietsverzekering.nl^
 ||ahbyjm.fiever.com.br^
+||fiezaits.com^
 ||metrics.fifa.com^
 ||smetrics.fifa.com^
 ||fifa19.mobi^
@@ -63456,13 +63457,9 @@
 ||e.gettyimages.in^
 ||e.gettyimages.nl^
 ||e.gettyimages.pt^
+||getui.cn^
 ||getui.com^
-||b-gi.getui.net^
-||b-gtc.getui.net^
-||c-gtc.getui.net^
-||gi.getui.net^
-||sdk.open.talk.getui.net^
-||talk.nz4.getui.net^
+||getui.net^
 ||jjjj.getui.vip^
 ||www.getuna.com^
 ||links.getupside.com^
@@ -126515,6 +126512,7 @@
 ||qwdbsjnql.com^
 ||qweasd.vip^
 ||qweasdzxc142.wixsite.com^
+||qweizay.top^
 ||qwerfdx.com^
 ||qwerggre.top^
 ||xsa1.qwertdd.pw^
@@ -174853,6 +174851,7 @@
 ||yooyoos.com^
 ||yoozbit.com^
 ||yopard.com^
+||yoqqiev.top^
 ||yoredi.com^
 ||a8cv.yoriso.com^
 ||ipdmlm.yoriso.com^
