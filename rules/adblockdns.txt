@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241207001652
-! Last modified: 2024/12/07 00:16:52
-! Blocked domains: 150701
+! Version: 20241207090408
+! Last modified: 2024/12/07 09:04:08
+! Blocked domains: 150604
 ! unBlocked domains: 49
 !
 ||love-track.000.pe^
@@ -791,6 +791,7 @@
 ||1pel.com^
 ||1phads.com^
 ||w61.1piecemanga.com^
+||1pixelcloud.com^
 ||d1.1ppt.com^
 ||1pqfa71mc.de^
 ||1priest1nun.com^
@@ -1500,7 +1501,7 @@
 ||2uts.com^
 ||2vaxwkujrfwh.info^
 ||2vv.cc^
-||2waky.com^
+||casgjkasjemtjasx.2waky.com^
 ||2wink.com.au^
 ||tr.nl.2wls.net^
 ||2ww.me^
@@ -2048,6 +2049,7 @@
 ||420artzone.com^
 ||booking.42185-confirm.com^
 ||423.ru^
+||4239cc7770.com^
 ||www.4242jj.com^
 ||426g.com^
 ||42869755.xyz^
@@ -4884,6 +4886,7 @@
 ||accordancespotted.com^
 ||accordinglyair.com^
 ||account-center765.pages.dev^
+||account-cfe.mx^
 ||olx.account-customer.shop^
 ||account-infos-pl.com^
 ||account-myrbc.com^
@@ -5833,6 +5836,7 @@
 ||adexcite.com^
 ||adexmedias.com^
 ||adexo.ir^
+||adexofiles.ir^
 ||adexpose.com^
 ||adexprts.com^
 ||adextrem.com^
@@ -8492,6 +8496,7 @@
 ||air360.io^
 ||air8backup.com^
 ||dev-link.aira.io^
+||airablebuboes.com^
 ||airairgu.com^
 ||smetrics.airandgo.fr^
 ||metrics.airasia.com^
@@ -10822,6 +10827,7 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
+||animeshoppers.com^
 ||api.animeshqip.icu^
 ||animits.com^
 ||dinocraft.animocabrands.com^
@@ -19885,6 +19891,7 @@
 ||bhpnj.com^
 ||bhs4.com^
 ||kampanja.bhtelecom.ba^
+||bhukkeks.com^
 ||bhyachtsales.com^
 ||bhyuu.com^
 ||smetrics.bi-connect.com^
@@ -26122,6 +26129,7 @@
 ||ad.caiyunapp.com^
 ||caja-trujillo.com.pe^
 ||images.publicidad.cajalosandes.cl^
+||cajangeurymus.com^
 ||cajatruj1llo.com.pe^
 ||cajewar736.wixsite.com^
 ||cajqtygrudk.com^
@@ -28392,6 +28400,7 @@
 ||info.cgjordaninsurance.com^
 ||cgmalight.com^
 ||cgmex.org^
+||ads.cgnetworks.com^
 ||usgj.cgnnjxnn.top^
 ||cgphqnflgee.com^
 ||cgpnhjatakwqnjd.xyz^
@@ -35252,6 +35261,7 @@
 ||curaenatura.com^
 ||curaguy.com^
 ||apqmxf.curama.jp^
+||curatelsack.com^
 ||curatorberiber.click^
 ||quokka.curbnumberpro.com^
 ||stats.curds.io^
@@ -37475,6 +37485,7 @@
 ||deetech.co.th^
 ||join.deetzapp.com^
 ||defaulthacks.com^
+||defaultswigcounterfeit.com^
 ||defeatedadmirabledivision.com^
 ||defeatedbadge.com^
 ||defeature.xyz^
@@ -37500,6 +37511,7 @@
 ||defiantdarrelle-shb-danang.pages.dev^
 ||defiantdarrelle-shb-danang34534.pages.dev^
 ||defiantdarrelle-via-link.pages.dev^
+||defiantmotherfamine.com^
 ||defiantmotorcycles.com^
 ||deficitsilverdisability.com^
 ||defigmi.com^
@@ -39402,6 +39414,7 @@
 ||discloseapplicationtreason.com^
 ||disclosesweepraincoat.com^
 ||events.prd.api.discomax.com^
+||telegraph.prd.api.discomax.com^
 ||discord-airdrop.com^
 ||discordrgift.com^
 ||discospiritirresponsible.com^
@@ -39532,6 +39545,7 @@
 ||sw88.disney.nl^
 ||sw88.disney.pl^
 ||sw88.disney.se^
+||beacons.digital.disneyadvertising.com^
 ||sw88.disneyadvertising.es^
 ||edge.disneychannel.ca^
 ||smetrics.disneychannel.ca^
@@ -41235,6 +41249,7 @@
 ||track.drvisionbreakthrough.com^
 ||trk.drvonda.com^
 ||gzizsw.drvranjes.com^
+||drxxnhks.com^
 ||drydrum.com^
 ||smetrics.dryerventwizard.com^
 ||drylnk.com^
@@ -43853,6 +43868,7 @@
 ||emberwatcher-firecaster.blogspot.nl^
 ||emberwhisper.com^
 ||embi-media.com^
+||embirashires.top^
 ||emblazonedq.shop^
 ||emblemexceptionscorer.com^
 ||smetrics.emblemhealth.com^
@@ -46641,6 +46657,7 @@
 ||fd2.eye.to^
 ||fd4.eye.to^
 ||eye2see.com^
+||eyeballdisquietstronghold.com^
 ||eyebrowscrambledlater.com^
 ||eyebrowsneardual.com^
 ||msafoy.eyebuydirect.com^
@@ -52743,6 +52760,7 @@
 ||ffrmel.gerryweber.com^
 ||gershop.com^
 ||open-test-devsu-pichincha.gerson-ruiz.com^
+||gersutsaix.net^
 ||geruksom.net^
 ||gerwzeqtr.com^
 ||geryzaycoe.live^
@@ -53591,6 +53609,7 @@
 ||links.glamsquad.com^
 ||tr.news.glance-mediametrie.com^
 ||glancedforgave.com^
+||glanderdisjoin.com^
 ||glandinterest.com^
 ||glashampouksy.net^
 ||ads.glasove.com^
@@ -58989,6 +59008,7 @@
 ||smetricsadobe.hollandandbarrett.com^
 ||grofag.hollandandbarrett.ie^
 ||smetricsadobe.hollandandbarrett.nl^
+||hollandbusinessadvertising.nl^
 ||static.hollandhortimedia.nl^
 ||hollandmichiganmortgage.com^
 ||hollandreporter.com^
@@ -60323,6 +60343,7 @@
 ||hunchlastlysluice.com^
 ||hunchmotherhooddefine.com^
 ||hunchnorthstarts.com^
+||hunden.info^
 ||hundredscultureenjoyed.com^
 ||hundredshands.com^
 ||hung.ch^
@@ -61473,6 +61494,7 @@
 ||ignslkgs.com^
 ||kpoils.igooods.ru^
 ||igouthoatsord.net^
+||igpkppknqeblj.com^
 ||ea.igraal.com^
 ||igreelsdownloader.com^
 ||igrid.org^
@@ -61870,6 +61892,7 @@
 ||imitrck.net^
 ||imitrk.com^
 ||imjustshaunie.com^
+||imkirh.com^
 ||qjcpcy.imkosmetik.com^
 ||imlb2c.com^
 ||imlive.com^
@@ -71138,6 +71161,7 @@
 ||adconsole.kozoom.com^
 ||coinbase-wallet.kozulbh.com^
 ||marketing.kozzyavm.com^
+||kpaagnosdzih.com^
 ||kpbmqxucd.com^
 ||kpcconline.xyz^
 ||mastertag.kpcustomer.de^
@@ -72369,6 +72393,7 @@
 ||lanqingcanyin2.com^
 ||communications.lansa.com^
 ||lp.lansa.com^
+||lansaimplemuke.com^
 ||zq.lansedir.com^
 ||m.lanseshuba.com^
 ||m.lanshiwan.cn^
@@ -74735,6 +74760,7 @@
 ||track.livredaconstipacao.online^
 ||livrfufzios.com^
 ||mosvnx.livup.com.br^
+||livxlilsq.click^
 ||liwanting0305.com^
 ||tracking.liwest.at^
 ||lixi88.info^
@@ -79490,6 +79516,7 @@
 ||menwww.com^
 ||iujeaa.menz-style.com^
 ||meofmukindwoul.info^
+||meorzoi.xyz^
 ||meow-x.com^
 ||meowpushnot.com^
 ||mep-mc.com^
@@ -84418,6 +84445,7 @@
 ||xawqerklewq.myartsonline.com^
 ||link.myasnb.com.my^
 ||dl-test.myathath.com^
+||myaudioads.com^
 ||myautopark.wpenginepowered.com^
 ||set.track.myautoquotes.online^
 ||creative.myavlive.com^
@@ -85930,6 +85958,7 @@
 ||navi35.ru^
 ||navi36.ru^
 ||navi39.ru^
+||navi42.ru^
 ||navi5.com^
 ||navi53.com^
 ||navi59.ru^
@@ -86194,6 +86223,7 @@
 ||nearestaxe.com^
 ||nearestmicrowavespends.com^
 ||nearestsweaty.com^
+||nearkillgift.life^
 ||i.stat.nearme.com.cn^
 ||stat.browser.nearme.com.cn^
 ||nearom.com^
@@ -86210,6 +86240,7 @@
 ||neatstats.com^
 ||neatwebs.com^
 ||nebbiasale.xyz^
+||nebbowmen.top^
 ||nebergennews.com^
 ||wpydbg.nebo.top^
 ||nebosuebey.live^
@@ -87881,6 +87912,7 @@
 ||ninthstreetbmx.com^
 ||ninzatool.pw^
 ||track.nioba.shop^
+||nip1.com^
 ||nip10.com^
 ||nip12.com^
 ||nip2.com^
@@ -88048,6 +88080,7 @@
 ||ctr-opc.nmg.de^
 ||nmgassets.com^
 ||nmgyllh.cn^
+||nmhbmfxh.icu^
 ||go.nmi.com^
 ||nmimatrme.com^
 ||ad2.nmm.de^
@@ -89321,6 +89354,7 @@
 ||nwq-frjbumf.today^
 ||nwrcz.com^
 ||nwriversidenews.com^
+||nwseiihafvyl.com^
 ||nwtennnews.com^
 ||nwwaynenews.com^
 ||nwwyomingnews.com^
@@ -93206,158 +93240,7 @@
 ||p24.hu^
 ||pocztahome.p285236.online^
 ||p2cdn.com^
-||ab.5.p2l.info^
-||acyclovir.1.p2l.info^
-||adipex.1.p2l.info^
-||adipex.3.p2l.info^
-||adipex.4.p2l.info^
-||ak.5.p2l.info^
-||al.5.p2l.info^
-||allegra.1.p2l.info^
-||allergy.1.p2l.info^
-||ambien.1.p2l.info^
-||ambien.3.p2l.info^
-||ambien.4.p2l.info^
-||antidepressants.1.p2l.info^
-||anxiety.1.p2l.info^
-||ar.5.p2l.info^
-||as.5.p2l.info^
-||az.5.p2l.info^
-||bc.5.p2l.info^
-||birth-control.1.p2l.info^
-||bontril.1.p2l.info^
-||bupropion-hcl.1.p2l.info^
-||buspar.1.p2l.info^
-||buspirone.1.p2l.info^
-||butalbital-apap.1.p2l.info^
-||ca.5.p2l.info^
-||carisoprodol.1.p2l.info^
-||celebrex.1.p2l.info^
-||celexa.1.p2l.info^
-||celexa.3.p2l.info^
-||celexa.4.p2l.info^
-||cialis.1.p2l.info^
-||cialis.3.p2l.info^
-||cialis.4.p2l.info^
-||co.5.p2l.info^
-||ct.5.p2l.info^
-||dc.5.p2l.info^
-||de.5.p2l.info^
-||def.5.p2l.info^
-||didrex.1.p2l.info^
-||effexor-xr.1.p2l.info^
-||enpresse.1.p2l.info^
-||esgic.1.p2l.info^
-||famvir.1.p2l.info^
-||female-v.1.p2l.info^
-||fioricet.1.p2l.info^
-||fioricet.3.p2l.info^
-||fioricet.4.p2l.info^
-||fl.5.p2l.info^
-||flexeril.1.p2l.info^
-||flextra.1.p2l.info^
-||flonase.1.p2l.info^
-||flonase.3.p2l.info^
-||flonase.4.p2l.info^
-||fluoxetine.1.p2l.info^
-||ga.5.p2l.info^
-||gastrointestinal.1.p2l.info^
-||gu.5.p2l.info^
-||herpes.1.p2l.info^
-||herpes.4.p2l.info^
-||hi.5.p2l.info^
-||id.5.p2l.info^
-||il.5.p2l.info^
-||imitrex.1.p2l.info^
-||imitrex.4.p2l.info^
-||in.5.p2l.info^
-||la.5.p2l.info^
-||levitra.1.p2l.info^
-||levitra.3.p2l.info^
-||levitra.4.p2l.info^
-||lexapro.1.p2l.info^
-||lexapro.3.p2l.info^
-||lexapro.4.p2l.info^
-||loestrin.1.p2l.info^
-||ma.5.p2l.info^
-||mb.5.p2l.info^
-||mens.1.p2l.info^
-||mi.5.p2l.info^
-||mn.5.p2l.info^
-||mo.5.p2l.info^
-||mp.5.p2l.info^
-||nasacort.1.p2l.info^
-||nb.5.p2l.info^
-||nc.5.p2l.info^
-||nd.5.p2l.info^
-||ne.5.p2l.info^
-||nexium.1.p2l.info^
-||nf.5.p2l.info^
-||nh.5.p2l.info^
-||oh.5.p2l.info^
-||ok.5.p2l.info^
-||ortho-tri-cyclen.1.p2l.info^
-||pain-relief.1.p2l.info^
-||paxil.1.p2l.info^
-||pe.5.p2l.info^
-||phendimetrazine.1.p2l.info^
-||phentermine.1.p2l.info^
-||phentermine.3.p2l.info^
-||phentermine.4.p2l.info^
-||pr.5.p2l.info^
-||prilosec.1.p2l.info^
-||propecia.1.p2l.info^
-||qc.5.p2l.info^
-||renova.1.p2l.info^
-||retin-a.1.p2l.info^
-||ri.5.p2l.info^
-||sc.5.p2l.info^
-||sd.5.p2l.info^
-||skelaxin.1.p2l.info^
-||skelaxin.4.p2l.info^
-||skin-care.1.p2l.info^
-||sleep-aids.1.p2l.info^
-||soma.1.p2l.info^
-||tenuate.1.p2l.info^
-||tizanidine.1.p2l.info^
-||tramadol.1.p2l.info^
-||tramadol.3.p2l.info^
-||tramadol.4.p2l.info^
-||triphasil.1.p2l.info^
-||triphasil.3.p2l.info^
-||triphasil.4.p2l.info^
-||ultram.1.p2l.info^
-||ut.5.p2l.info^
-||va.5.p2l.info^
-||valtrex.1.p2l.info^
-||valtrex.4.p2l.info^
-||vaniqa.1.p2l.info^
-||viagra.3.p2l.info^
-||viagra.4.p2l.info^
-||vt.5.p2l.info^
-||wa.5.p2l.info^
-||weight-loss.1.p2l.info^
-||weight-loss.3.p2l.info^
-||wellbutrin.1.p2l.info^
-||wellbutrin.3.p2l.info^
-||wellbutrin.4.p2l.info^
-||wv.5.p2l.info^
-||wy.5.p2l.info^
-||xenical.1.p2l.info^
-||xenical.3.p2l.info^
-||xenical.4.p2l.info^
-||yasmin.1.p2l.info^
-||yasmin.3.p2l.info^
-||yasmin.4.p2l.info^
-||yt.5.p2l.info^
-||zanaflex.1.p2l.info^
-||zebutal.1.p2l.info^
-||zoloft.1.p2l.info^
-||zoloft.3.p2l.info^
-||zoloft.4.p2l.info^
-||zyrtec.1.p2l.info^
-||zyrtec.3.p2l.info^
-||zyrtec.4.p2l.info^
+||p2l.info^
 ||adv.p2pbg.com^
 ||p2poolmining.com^
 ||p30rank.ir^
@@ -94017,6 +93900,7 @@
 ||qr.paps.jp^
 ||papy-voyeur.com^
 ||gzlxvg.papy.co.jp^
+||paquetsuivi7noti.com^
 ||para-usa.com^
 ||parachuteclub.live^
 ||parachutecourtyardgrid.com^
@@ -95472,6 +95356,7 @@
 ||petervanbruggen.eu^
 ||petflowbrigade.com^
 ||petfoodwarning.com^
+||pethaphegauftup.xyz^
 ||track.petheal.com^
 ||pethealthdaily.com^
 ||banner.pethobbyist.com^
@@ -96323,6 +96208,7 @@
 ||jzzdsu.piscineshop.com^
 ||pisehiation.shop^
 ||pisemnydruk.click^
+||pishespied.top^
 ||bcigeg.pishposhbaby.com^
 ||pishroshop.com^
 ||pisikologozgetan.com^
@@ -106464,6 +106350,7 @@
 ||recordbutter.com^
 ||recordercourseheavy.com^
 ||recordercrush.com^
+||recorderstruggling.com^
 ||recordingadventurouswildest.com^
 ||bxumze.recordonline.com^
 ||ojixrv.recordrentacar.com^
@@ -107697,6 +107584,7 @@
 ||reticencevaliddecoction.com^
 ||tr.n.retif.eu^
 ||retinaesprent.com^
+||retingexylogen.com^
 ||retinueabash.com^
 ||retirewellinvestors.com^
 ||retiringspamformed.com^
@@ -108470,6 +108358,7 @@
 ||production-tracking.riviu.co^
 ||rivobyozyy.live^
 ||getpxq.rivolishop.com^
+||rixengine.com^
 ||affiliate.rixo.cz^
 ||riyatours.com^
 ||zhduni.rizap.jp^
@@ -108987,6 +108876,7 @@
 ||staging-refer.rooam.co^
 ||roobbet.com^
 ||roobetaffiliates.com^
+||rooedfibers.com^
 ||roof-city.ru^
 ||marketing.roofconnect.com^
 ||roofdeals.info^
@@ -110063,6 +109953,7 @@
 ||rzsgxmm.cn^
 ||rzuokcobzru.com^
 ||rzyosrlajku.com^
+||rzzhrbbnghoue.com^
 ||rzzlhfx.com^
 ||s-adzone.com^
 ||st.s-bahn-muenchen-magazin.de^
@@ -111685,6 +111576,7 @@
 ||app.scrpbx.co^
 ||scru.cn^
 ||scruboutdoorsoffensive.com^
+||scrubsky.com^
 ||scrubswim.com^
 ||mongoose.scrumgenius.com^
 ||scrynesgxher.life^
@@ -112941,7 +112833,9 @@
 ||servetraff.com^
 ||serveurmumble.com^
 ||serveuser.com^
-||serveusers.com^
+||dp-akt-id8050407700.serveusers.com^
+||root20system20macosxdriver.serveusers.com^
+||sert-id-akt-01924.serveusers.com^
 ||servg1.net^
 ||servicdh.top^
 ||determinator.service-cmp.com^
@@ -115984,6 +115878,7 @@
 ||smrt-cdn.com^
 ||smrt.as^
 ||smrtb.com^
+||ads.smrtbid.com^
 ||smrtbnr.com^
 ||smrtbnr.info^
 ||smrtgs.com^
@@ -117984,6 +117879,7 @@
 ||spotunworthycoercive.com^
 ||spotx.tv^
 ||spotxchange.com^
+||spotyfile.com^
 ||spoutable.com^
 ||spoutitchyyummy.com^
 ||data-597aebc8e1.spox.com^
@@ -118627,6 +118523,7 @@
 ||startjacket.com^
 ||startnewtab.com^
 ||startnow.com^
+||startone.top^
 ||vf.startpage.com^
 ||startperfectsolutions.com^
 ||startrack.at^
@@ -120820,6 +120717,7 @@
 ||svonm.com^
 ||tr.info.svp.com^
 ||svplotnikov.ru^
+||trk.svr-algorix.com^
 ||svr-prc-01.com^
 ||secure.svr007phz.com^
 ||www.svr007phz.com^
@@ -131008,6 +130906,7 @@
 ||tslomhfys.com^
 ||tslsstrads.com^
 ||tsml.fun^
+||tsmlzafghsft.com^
 ||tsmqbyd.com^
 ||tsmtrk.com^
 ||metrics.tsn.ca^
@@ -131682,6 +131581,7 @@
 ||twchtvip.xyz^
 ||twcouponcenter.com^
 ||click.twcwigs.com^
+||ads.twdcgrid.com^
 ||tweakarrangement.com^
 ||tweakbit.com^
 ||vicky.tweaknology.org^
@@ -133493,6 +133393,7 @@
 ||tracking.univtec.com^
 ||uniway.cn.com^
 ||mxoqqu.uniwigs.com^
+||app.uniwspapp.com^
 ||go.uniwue.de^
 ||unixfuture.com^
 ||goonews.unixstorm.eu^
@@ -145425,6 +145326,7 @@
 ||shop.xbknbg.top^
 ||www.xbn.ru^
 ||gum.xbooks.to^
+||xborders.io^
 ||xbotoffer.com^
 ||c.xbox.com^
 ||expbl2ro.xbox.com^
@@ -147460,6 +147362,7 @@
 ||yfetyg.com^
 ||yfgrxkz.com^
 ||yfkflfa.com^
+||yflexibilitukydt.com^
 ||yfoega.xyz^
 ||yfqkcsxr.top^
 ||yftpnol.com^
