@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20260427170035
-! Last modified: 2026/04/27 17:00:35
-! Blocked domains: 5378
+! Version: 20260428004003
+! Last modified: 2026/04/28 00:40:03
+! Blocked domains: 5339
 !
 kwflvcdn.000dn.com
 img.0279.net
@@ -657,7 +657,6 @@ axbdlox.cn
 axrpez.cn
 azdxypf.cn
 umami.azhubaby.com
-azm-kuailian.com.cn
 azu0jytzgm.com
 b-live.cn
 b1.b2b168.com
@@ -863,7 +862,6 @@ bf-sougou.com.cn
 bfshan.cn
 bhabanagarafoundation.org
 bhpprfk.cn
-bhw-kuailian.com.cn
 bhyuu.com
 app-posthog.bi-sage.site
 bianxian.com
@@ -977,7 +975,6 @@ tracking.cat898.com
 cbhzxctgm.com
 adv.ccb.com
 ad.ccement.com
-cchk-googlexc.com.cn
 cchytech.com
 btrace.ysp.cctv.cn
 mtrace.ysp.cctv.cn
@@ -1006,7 +1003,6 @@ cdnmaster.com
 adimg.ce.cn
 tvuser-ch.cedock.com
 update.cg100iii.com
-cgf-kuailian.com.cn
 cgigc.com.cn
 ch-chrome-hl.hl.cn
 ads.adagent.chacha.com
@@ -1087,6 +1083,7 @@ cleartone.club
 log-api.cli.im
 bd1.click.com.cn
 clicki.cn
+7xi9g1.com1.z0.glb.clouddn.com
 bkt.clouddn.com
 advertise.cloudlinks.cn
 log.cmbchina.com
@@ -1455,11 +1452,9 @@ huaxiang.eastmoney.com
 same.eastmoney.com
 www.easyrecoverychina.com
 easytomessage.com
-eb-kuailian.com.cn
 eblnzoq.cn
 ebrid.cn
 jb.ecar168.cn
-ecp-kuailian.com.cn
 ecudsc.cn
 acccountverificatonlog.edgeone.app
 bhdleoncredito.edgeone.app
@@ -1592,7 +1587,6 @@ ad.findic.com
 a1.firefoxchina.cn
 fiwyjar.cn
 fj-sougou.com.cn
-fjs-kuailian.com.cn
 fjshxjs.cn
 fjsytjs.cn
 flash.cn
@@ -1652,8 +1646,6 @@ dms.fx678.com
 a.fxltsbl.com
 fy14.cn
 fyskpromaster.net
-fyu-youdao.com.cn
-fyy-youdao.hl.cn
 fyyd-youdao.com.cn
 g15wt3ci68.com
 gainifyads.com
@@ -2050,7 +2042,6 @@ hpplay.com.cn
 support.hqts.com
 hseda.com
 hsehk.cn
-hspmoais.com
 hsrgnac.cn
 g.hsw.cn
 hsych.com
@@ -2456,7 +2447,6 @@ kuailian-5g.com.cn
 kuailian-66.com.cn
 kuailian-666.com.cn
 kuailian-888.com.cn
-kuailian-aa.hl.cn
 kuailian-aaq.com.cn
 kuailian-ab1.com.cn
 kuailian-ab2.com.cn
@@ -2482,13 +2472,10 @@ kuailian-ij2.com.cn
 kuailian-j.com.cn
 kuailian-jet.com.cn
 kuailian-kk.hl.cn
-kuailian-kl.hl.cn
 kuailian-kl2.com.cn
 kuailian-lab.com.cn
-kuailian-ln.hl.cn
 kuailian-mn.com.cn
 kuailian-mn1.com.cn
-kuailian-nn.hl.cn
 kuailian-op1.com.cn
 kuailian-op2.com.cn
 kuailian-qr.com.cn
@@ -2585,7 +2572,6 @@ update.mobile.kugou.com
 webcollects.kugou.com
 kuheju.com
 msstatic.com.gslb.kuiniuca.com
-kuk8.com
 h1.kukuw.com
 img.adnyg.com.w.kunlungr.com
 qcloud-sg-datareceiver.kurogame.xyz
@@ -2722,8 +2708,6 @@ ws-p2p-pull.live-voip.com
 ljarfvg.cn
 con-bvul.lkcqzi.cn
 lkuailian.com.cn
-ll-kuailian.hl.cn
-lme-kuailian.com.cn
 elsbhefb.lmfnil.cn
 lnk0.com
 lnk8.cn
@@ -3079,7 +3063,6 @@ down.nishuoa.com
 taobao.niucha.ren
 niupaiba.com
 yhxzbaos.nj383262.cn
-njx-kuailian.com.cn
 njzyjy.cn
 nkscdn.com
 nkuailian.com.cn
@@ -3284,7 +3267,6 @@ puqer.cn
 purebuy.club
 analytics.pushgrid.net
 pvkc.cn
-pwc-kuailian.com.cn
 pxwu.cn
 pyaude.cn
 pzkrgcp.cn
@@ -3537,7 +3519,6 @@ down.qqfarmer.com.cn
 qqo-google.com.cn
 sdk-ab-config.qquanquan.com
 tracelog-debug.qquanquan.com
-qr-kuailian.com.cn
 f.qstatic.com
 ad-cdn.qtfm.cn
 adlaunch.qtfm.cn
@@ -3610,7 +3591,6 @@ reosvr.cn
 api.revenuads.com
 info.revvity.cn
 rezgere.cn
-rfd-kuailian.com.cn
 track.msadcenter.rfjq.com
 rhinogo.cn
 richh.cn
@@ -3815,7 +3795,6 @@ sitolanu-whatsapp.com.cn
 sixiuwl.cn
 analytics.sixt.cn
 1.sj33.net
-skq-kuailian.com.cn
 sm-tc.cn
 c.sm.cn
 hc-ssp.sm.cn
@@ -3880,7 +3859,6 @@ social-touch.com
 wct.softonic.cn
 softxz.com
 adx.sogaha.cn
-sogou-aak.com.cn
 sogou-ai.com.cn
 sogou-browser.cn
 sogou-sogou.cn
@@ -3937,7 +3915,6 @@ sougouyy.com.cn
 roi.soulapp.cn
 sgg.southcn.com
 cod.southmoney.com
-spotify.hl.cn
 sq59.cn
 srbzw.cn
 srtzjt.hl.cn
@@ -3945,7 +3922,6 @@ sscefsol.com
 data.ssports.com
 show.ssports.com
 ssur.cc
-st-kuailian.com.cn
 st-sougou.com.cn
 stargame.com
 staticfile.net
@@ -4138,7 +4114,6 @@ adexpo.tencentmusic.com
 adstats.tencentmusic.com
 report.tencentmusic.com
 tengfeidn.cn
-tensai146.icu
 dc.tensgpt.com
 tepusi888.cn
 answers.teradata.com.cn
@@ -4166,7 +4141,6 @@ ip.tianqiapi.com
 datas.tianqistatic.com
 yptqys.tianqistatic.com
 fz.tiansys.cn
-tiantiansoft.com
 www.tiexing.com
 smetrics.tiffany.cn
 tikz.cn
@@ -4229,7 +4203,6 @@ tnc3-bjlgy.toutiaoapi.com
 toutiaopage.com
 tovbus.cn
 tovppl.cn
-tq-kuailian.com.cn
 trackingio.com
 tradplus.cn
 tradplus.com
@@ -4314,7 +4287,6 @@ udrig.com
 uebabuf.cn
 ugdtimg.com
 uhabo.com
-uhb-kuailian.com.cn
 bdjs.uimg.cn
 uimr.cn
 ujian.cc
@@ -4589,7 +4561,6 @@ vpsgu.cn
 vrbrothers.com
 hvkfmk.vrkxqfrx.cn
 vrrm.cn
-vrs-kuailian.com.cn
 n.vs108.com
 vultenok.net
 vungle.cn
@@ -4706,7 +4677,6 @@ wm-binance.com.cn
 wmmax.com
 wn68din.cn
 wnp.com
-wny-kuailian.com.cn
 analytics.wondershare.cc
 event.wondershare.com
 platform.wondershare.com
@@ -4796,7 +4766,6 @@ xazbts.com
 xb-telegram.com.cn
 enappstat.xbext.com
 enstat.xbext.com
-xbt-kuailian.com.cn
 xbtw.com
 d0.xcar.com.cn
 dw.xcar.com.cn
@@ -5002,7 +4971,6 @@ ydgsvls.cn
 kl.yditweb.cn
 adpublish.ydstatic.com
 oimagea2.ydstatic.com
-ydv-kuailian.com.cn
 bdm.ye-su.cn
 ir.mail.yeah.net
 yegziyf.cn
@@ -5039,7 +5007,6 @@ yiqifa.com
 11.yiqig.cn
 yitongwl.cn
 yiwk.com
-yixui.com
 wr.yiyouliao.com
 js.yjbys.com
 mountain.zhidao.baidu.com.cname3466.yjs-cdn.com
@@ -5185,9 +5152,6 @@ cpanel12wh.bkk1.cloud.z.com
 z0rto0758.com
 z1-binance.com.cn
 z9sab7vr0b.com
-zalando-d.cn
-zalando-q.cn
-zalando-z.cn
 zalenith.com
 zampda.net
 zamplus.com
@@ -5199,7 +5163,6 @@ p3.zbjimg.com
 zbo0n.com
 xue.zbyw.cn
 zbz360.com
-zch-googlemn.com.cn
 log.zcool.com.cn
 zegarkirepliki.pl
 api-analytics.zepp.com
@@ -5268,7 +5231,6 @@ logapi-ios.zhipin.com
 t.zhipin.com
 zhiziyun.com
 zhldgso.cn
-zhongchouyan.com
 w11.zhongkaohelp.com
 zhongsijiacheng.com
 jy.zhongxues.com
@@ -5371,7 +5333,6 @@ zujz.cn
 zukddms.cn
 1.zuowenjun.com
 zv-telegram.com.cn
-zvb-youdaov.com.cn
 ndrenefs.zwanyu.cn
 zxiws.cn
 zxrcfw.com
