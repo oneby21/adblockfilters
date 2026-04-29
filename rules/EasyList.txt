@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: a91jeZLgT+ATkE0DQ9FHtQ
-! Version: 202604290041
+! Checksum: 5CnvqSSU3iozlLW/TsPAcg
+! Version: 202604290321
 ! Title: EasyList
-! Last modified: 29 Apr 2026 00:41 UTC
+! Last modified: 29 Apr 2026 03:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16613,6 +16613,7 @@ browsershots.org#@#.advert_area
 ||a11ybar.com^
 ||a14net.com^
 ||a2255d1d36.com^
+||a26e7bb99f.com^
 ||a273656d15.com^
 ||a29f24b2a6.com^
 ||a2tw6yoodsag.com^
@@ -18255,6 +18256,7 @@ browsershots.org#@#.advert_area
 ||amoraimaraceae.cyou^
 ||amoralforsteppe.com^
 ||amoralstern.com^
+||amorphasalable.cfd^
 ||amorphousankle.com^
 ||amorphouscomprise.com^
 ||amountdonutproxy.com^
@@ -20248,6 +20250,7 @@ browsershots.org#@#.advert_area
 ||bfkvcvakbhdkh.website^
 ||bfpartners.click^
 ||bfpxcbamfvhsl.website^
+||bfpxyzomls.com^
 ||bfqmudfvbfwnab.com^
 ||bfqrixq8w7wkgje.cfd^
 ||bfraircymryuh.xyz^
@@ -22838,6 +22841,7 @@ browsershots.org#@#.advert_area
 ||claudionumaclaelia.cyou^
 ||clavuviupsit.cyou^
 ||clawpermute.cyou^
+||clayeytogated.cyou^
 ||clbaf.com^
 ||clbjmp.com^
 ||clcktrck.com^
@@ -25643,6 +25647,7 @@ browsershots.org#@#.advert_area
 ||dkqpcbuliyx.com^
 ||dkrbus.com^
 ||dkrnlccknrlqz.online^
+||dkswdqbuvzykl.site^
 ||dkswshap-3.online^
 ||dkupbrast.cyou^
 ||dkwtrzrrejqls.club^
@@ -25851,6 +25856,7 @@ browsershots.org#@#.advert_area
 ||dorsalatake.com^
 ||dorsalaworrymaroons.qpon^
 ||dorsulachiplet.com^
+||dortermarchen.qpon^
 ||dortmark.net^
 ||doruckmangedreamed.cyou^
 ||dosachen.com^
@@ -25953,6 +25959,7 @@ browsershots.org#@#.advert_area
 ||dpuxtqqajzwam.store^
 ||dpvowksnrdhxv.site^
 ||dpvztnqfkmlbs.store^
+||dpxxlhhkhjepl.space^
 ||dqciuftqqizon.website^
 ||dqcsvolbwaxxq.online^
 ||dqdsnemauijvc.online^
@@ -27358,6 +27365,7 @@ browsershots.org#@#.advert_area
 ||entterto.com^
 ||entwithoughtsu.com^
 ||enueduringhere.info^
+||enurnvnfhzisy.website^
 ||enuwulwgsbicx.website^
 ||envczfherlnzg.website^
 ||enviertheave.cyou^
@@ -28571,6 +28579,7 @@ browsershots.org#@#.advert_area
 ||fesecrxmwowzq.site^
 ||fespnfwrcdgpv.website^
 ||fessedforgrow.qpon^
+||fesselylimbate.cyou^
 ||fessoovy.com^
 ||festersstimy.qpon^
 ||festivalcasketfrench.com^
@@ -30817,6 +30826,7 @@ browsershots.org#@#.advert_area
 ||goldfishdrove.com^
 ||goldfishouncereburial.com^
 ||goldfishsmellhermione.com^
+||goldleerilyreveals.cyou^
 ||goleeoronokokedging.cfd^
 ||golejddnzqnxb.website^
 ||golfdomscots.cfd^
@@ -33200,6 +33210,7 @@ browsershots.org#@#.advert_area
 ||idlenxmbgudpi.online^
 ||idlesliver.com^
 ||idlestupid.pro^
+||idljdarogvxnk.space^
 ||idlupwyysvrfo.website^
 ||idmiddnqrgssm.site^
 ||idnwzmdo.com^
@@ -38765,6 +38776,7 @@ browsershots.org#@#.advert_area
 ||mejlwlzjcbkjn.space^
 ||melancholylucidity.com^
 ||melanicsellgangava.qpon^
+||melgeminid.cfd^
 ||mellitesting.shop^
 ||mellodur.net^
 ||melodic-mess.com^
@@ -39372,6 +39384,7 @@ browsershots.org#@#.advert_area
 ||mobifobi.com^
 ||mobileoffers-dld-download.com^
 ||mobilesbrawlerinvars.cyou^
+||mobilescag.shop^
 ||mobilessequinsonicolo.cfd^
 ||mobiletracking.ru^
 ||mobipromote.com^
@@ -42815,6 +42828,7 @@ browsershots.org#@#.advert_area
 ||owbvbqeaucwvg.global^
 ||owcvxpraihoxo.site^
 ||owdefgcqhxtyf.store^
+||owdgttvvqudzj.online^
 ||owdxsfjnfkrgk.website^
 ||owdzgtqeqegpm.website^
 ||owenianaxumite.shop^
@@ -42885,6 +42899,7 @@ browsershots.org#@#.advert_area
 ||owzwnawuyzmif.com^
 ||ox133qqrz8v9oj.cfd^
 ||ox6qoeg36fut1vlfooyq2vvtxhgcl.cfd^
+||oxacidunfiend.shop^
 ||oxado.com^
 ||oxauxgbuzyyae.online^
 ||oxbbzxqfnv.com^
@@ -46740,6 +46755,7 @@ browsershots.org#@#.advert_area
 ||pxrjzziqqthqo.online^
 ||pxslenpdvprcb.net^
 ||pxsmfqhdndkce.online^
+||pxu9czw585r4n3hk.rest^
 ||pxvjgcsbmpjywh.xyz^
 ||pxwqvvumecpsd.world^
 ||pxwtuawrbhswg.space^
@@ -47184,6 +47200,7 @@ browsershots.org#@#.advert_area
 ||qhkcbwfvobqma.space^
 ||qhkcnqnvjjl.net^
 ||qhkflvounmbrq.site^
+||qhkyoclyenren.com^
 ||qhnadjmytpdcr.xyz^
 ||qhnbqrpobwplq.online^
 ||qhnojvbyxfgcf.click^
@@ -47317,6 +47334,7 @@ browsershots.org#@#.advert_area
 ||qksyzbngksiwtj.com^
 ||qksz.net^
 ||qkuddzkexfiez.site^
+||qkuwfhstvjagy.com^
 ||qkvfnjfhdparr.store^
 ||qkwzfobrsku.com^
 ||qkxfqleua.com^
@@ -48788,6 +48806,7 @@ browsershots.org#@#.advert_area
 ||redeemcontagiontransmitted.com^
 ||redeemspaciousdevice.com^
 ||redeyetakt.help^
+||redfishtottingtintie.cyou^
 ||rediatruancy.qpon^
 ||redipsopaquer.com^
 ||rediptmanse.cfd^
@@ -50165,6 +50184,7 @@ browsershots.org#@#.advert_area
 ||rooloacooboad.net^
 ||roomagetilpah.qpon^
 ||roomeetaugouthe.net^
+||roomerspits.cfd^
 ||roomfulleif.help^
 ||roomierhisis.com^
 ||roommateskinner.com^
@@ -54363,6 +54383,7 @@ browsershots.org#@#.advert_area
 ||starmeetonline.com^
 ||starmobmedia.com^
 ||starnhomy.cfd^
+||starrresidsstreak.cyou^
 ||starry-abroad.pro^
 ||starry-block.pro^
 ||starry-galaxy.com^
@@ -58494,6 +58515,7 @@ browsershots.org#@#.advert_area
 ||u3o1uncq.xyz^
 ||u3qleufcm6vure326ktfpbj.cfd^
 ||u488cvur23tyub.cfd^
+||u4w4hp6grc2yy1k98.cfd^
 ||u4yvbkwie7vkgwv841ur.cfd^
 ||u51o6pqk.xyz^
 ||u52jri1jt9b7rkrwren.cfd^
@@ -58567,6 +58589,7 @@ browsershots.org#@#.advert_area
 ||ubfotxzmhttgx.online^
 ||ubgneblgrosii.site^
 ||ubgvqakukavmm.space^
+||ubhejhjegoglnm.com^
 ||ubhoryjlvjfux.website^
 ||ubiepvmfdzkhx.online^
 ||ubilinkbin.com^
